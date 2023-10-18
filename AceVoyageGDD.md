@@ -9,8 +9,14 @@
 
 ## 2.2.	Características principales
 El juego se caracteriza por:
-- Aprendizaje computacional:
-- Estrategia:
+
+### 2.2.1. Aprendizaje computacional
+Una de las principales características del videojuego es desarrollar el pensamiento computacional en niños menores de 12 años. El penamiento computacional permite a estos niños resolver problemas haciendo uso de los conceptos fundamentales de la informática. Así, entre las destrezas que pertenecen a esta rama de pensamiento, nuestro videojuego potencia las siguientes destrezas:
+- Abstracción: el reconocimiento de patrones está presente en este apartado. De esta manera, el niño deberá reconocer diferentes patrones, como son los ataques de enemigos, que atacarán periódicamente en cierta área de casillas, para superar los niveles.
+- Pensamiento algorítmico: el niño deberá centrar su atención en crear algoritmos, que pueden consistir en jugar ciertas cartas en cierto orden, o en derrotar a ciertos enemigos de diferentes formas, dependiendo del tipo de estos.
+- Evaluación: en este caso, el niño deberá intentar gestionar de la manera más eficiente las cartas de su mano, de manera que utilice las menos posibles para superar el nivel.
+
+Así, el videojuego recogerá ciertos datos, como son el número de casillas exploradas y el número de cartas utilizadas por el niño para completar cada nivel, de manera que, accediendo a estos datos en una base de datos, los profesores o responsables de estos niños puedan evaluar su evolución en el aprendizaje computacional.
 
 ## 2.3.	Género
 Ace Voyage posee una mezcla de los siguientes géneros:
@@ -18,7 +24,7 @@ Ace Voyage posee una mezcla de los siguientes géneros:
 -	Puzzle/estrategia: para conseguir superar los niveles, el jugador deberá jugar las cartas que posee estratégicamente.
 
 ## 2.4.	Propósito y público objetivo
-El propósito principal del videojuego se centra en al enseñanza de pensamiento computacional en niños de edades comprendidas entre 3 y 12 años. Por ello, y teniendo en cuenta que ya existen numerosos videojuegos de enseñanza que no resultan divertidos para los niños, se ha de centrar también el objetivo del proyecto en hacer un videojuego de aprendizaje, pero que a su vez resulte entretenido y divertido para niños.
+El propósito principal del videojuego se centra en al enseñanza de pensamiento computacional en niños de edades comprendidas entre 3 y 12 años, como ya se ha desarrollado en el apartado "2.2.1". Por ello, y teniendo en cuenta que ya existen numerosos videojuegos de enseñanza que no resultan divertidos para los niños, se ha de centrar también el objetivo del proyecto en hacer un videojuego de aprendizaje, pero que a su vez resulte entretenido y divertido para niños.
 Por otro lado, para lograr dicho propósito se ha optado por un sistema de niveles cortos y rejugables, que mantengan al usuario jugando sin llegar a cansarle a causa de largas sesiones.
 
 ## 2.5.	Jugabilidad
