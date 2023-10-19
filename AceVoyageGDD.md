@@ -3,6 +3,10 @@
 # 1.	Historial de versiones
 ## 1.1 Versión 1.0
 - Primera versión de GDD.
+## 1.2 Versión 2.0
+- Añadidas mecánicas de juego.
+- Explicadas uso de cartas y ataque. Idea general del resto
+- Añadidos personajes
 # 2.	Introducción
 ## 2.1 Concepto del juego
 *Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello deberá encontrar las piezas de recambio para poder arreglar su avioneta investigando en diversos biomas y enfrentando a una variedad de enemigos.
@@ -61,3 +65,48 @@ El juego será desarrollado para navegadores web, siendo jugable tanto en PC com
 
 ## 2.9.	Licencia
 La idea del juego es original.
+
+# 3. Mecánicas de juego
+## 3.1. Jugabilidad
+En este juego se explora un escenario que cambia con cada bioma y en el que encontrarás distintos obstaculos como los enemigos y la niebla que te tapa la visión. Para avanzar por el escenario se deberá usar las cartas con las que te podrás defender de los enemigos y despejar la niebla. Además cada movimiento cuenta ya que la estamina se consume con cada paso que se da.
+
+### 3.1.1. Movimiento
+*Explicar el movimiento (pathfinding al clicar una casilla)*
+
+### 3.1.2. Quitar niebla
+*Explicar objetivo de quitar la niebla (la niebla cubre las casillas y no se puede pasar ni ver que contiene la casilla hasta que se despeja)*
+
+### 3.1.3. Estamina
+*Explicar el consumo de estamina (Al pasar por las casillas se consume la estamina, si te quedas sin estamina pierdes la partida)*
+
+### 3.1.4. Uso de cartas
+Nuestro protagonista empieza cada partida con una mano de cartas y podrá conseguir más a lo largo de la partida. Estas cartas se mostrararán en la parte inferior de la pantalla. Habrá varios tipos de cartas: cartas de ataque, cartas de exploración y cartas de estamina. Las cartas podrán seleccionarse de manera que la carta sobresaldrá de la mano y se iluminará en el escenario el area de efecto de dicha carta. De cada categoría de carta existen distintos tipos dependiendo del area de efecto.
+Las cartas de ataque muestran un área frente al jugador y una vez se clica la dirección en la que se quiere usar la carta esta se gasta y hará daño a los enemigos que se encuentren en ese área.
+Las cartas de exploración mostrarán el area de niebla que se despejará frente al jugador. Al usar la carta se gastará y eliminará la niebla del escenario, permitiendo al jugador moverse por la casilla y ver lo que esta contiene,
+Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta se gasta.
+
+### 3.1.5. Recolección de cartas
+*Explicar la recolección de cartas (aparecen cartas en el escenario al descubrir las casillas. Al caminar sobre esa casilla se recoge la carta y se pone en la mano del jugador)*
+
+### 3.1.6. Ataque
+El jugador tiene distintas cartas de ataque que puede usar para hacer daño a los enemigos. Para que el ataque tenga éxito tiene que consseguir que los enemigos se encuentren en las casillas en las que hará efecto el ataque. Esto provoca daño en los enemigos matandolos en caso de que su vida sea menor que el daño ejercido. Cartas de ataque:
+Carta de ataque débil: El área de efecto del ataque es de 2x1 en la dirección del jugador. Quita 25 puntos de salud.
+Carta de ataque fuerte: El área de efecto del ataque es en eforma de T, siendo de 2x1 frente al jugador más dos casillas más una a cada lado del final del primer área mencionada. Este ataque quita 50 puntos de salud en el área principal y 25 en los dos extremos.
+
+### 3.1.7. Carga de exploración
+*Explicar la barra de carga al caminar (Se carga con cada paso y cuando se carga se puede solicitar una nueva carta)*
+
+### 3.1.8. Encontrar piezas y salida
+*Explicar la busqueda y recolección de piezas y la salida (Al igual que las cartas que se encuentran al eliminar la niebla se puede encontrar las piezas del avión y la salida. Para salir hay que recoger la pieza primero. ¿Recoger lore también?)*
+
+## 3.2. Flujo de juego
+
+## 3.3. Personajes
+### 3.3.1. Perky (Protagonista)
+### 3.3.2. Murciélago
+### 3.3.3. Lobo
+### 3.3.4. Araña
+
+## 3.4. Movimiento e interacción
+### 3.4.1. Interacción entre elementos
+### 3.4.2. Controles
