@@ -3,7 +3,9 @@
 # 1.	Historial de versiones
 ## 1.1 Versión 1.0
 - Primera versión de GDD.
-## 1.2 Versión 2.0
+## 1.2 Versión 1.1
+- Añadido el apartado "2.2.1 Aprendizaje computacional"
+## 1.3 Versión 2.0
 - Añadidas mecánicas de juego.
 - Explicadas uso de cartas y ataque. Idea general del resto
 - Añadidos personajes
