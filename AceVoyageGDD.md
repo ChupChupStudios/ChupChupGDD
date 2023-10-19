@@ -6,7 +6,7 @@
 ## 1.2 Versión 2.0
 - Añadidas mecánicas de juego.
 - Explicadas uso de cartas y ataque. Idea general del resto
-- Añadidos personajes
+- Añadidos personajes y enemigos
 # 2.	Introducción
 ## 2.1 Concepto del juego
 *Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello deberá encontrar las piezas de recambio para poder arreglar su avioneta investigando en diversos biomas y enfrentando a una variedad de enemigos.
@@ -103,9 +103,34 @@ Carta de ataque fuerte: El área de efecto del ataque es en eforma de T, siendo 
 
 ## 3.3. Personajes
 ### 3.3.1. Perky (Protagonista)
+Nuesstro protagonista es un cartero que hace uso de las cartas para defenderse y explorar el terreno.
+
 ### 3.3.2. Murciélago
+Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Precisamente por sus rápidos movimientos no es capaz de cambiar de dirección facilmente por lo que se mueve en linea recta. El daño que puede causar es bajo y no dispone de mucha vida.
+|  Cualidad  |  Cantidad  |
+|------------|------------|
+|    Vida    |     25     |
+|    Daño    |     10     |
+| Movimiento | 3 Casillas |
+|   Ataque   | 3 casillas |
+
 ### 3.3.3. Lobo
+Un enemigo que tiene un gran olfato que le permite perseguir al jugador haya a donde vaya. Es muy rápido aunque debe acercarse mucho para poder atacar. Por suerte para el dispone de bastante vida lo que podría permitirle resistir algún golpe y aunque no siempre se le brinde la oportunidad de atacar cuando la tiene la aprovecha bien causando bastante daño.
+|  Cualidad  |  Cantidad  |
+|------------|------------|
+|    Vida    |     50     |
+|    Daño    |     25     |
+| Movimiento | 4 Casillas |
+|   Ataque   | 1  Casilla |
+
 ### 3.3.4. Araña
+Un enemigo que acecha a sus victimas y espera a que caigan en su trampa. Se mueve muy lentamente para evitar ser detectado mientras prepara sus trampas de telaraña por el camino. Cuando su presa se encuentra a su alcance ataca causando mucho daño a su alrededor y relentizando su marcha, si es que consigue escapar. Además tiene una armadura de telaraña la cual le proporciona una fuerte protección frente a los ataques.
+|  Cualidad  |  Cantidad  |
+|------------|------------|
+|    Vida    |     75     |
+|    Daño    |     25     |
+| Movimiento | 1  Casilla |
+|   Ataque   | 8 Casillas |
 
 ## 3.4. Movimiento e interacción
 ### 3.4.1. Interacción entre elementos
