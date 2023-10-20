@@ -9,6 +9,10 @@
 - Añadidas mecánicas de juego.
 - Explicadas uso de cartas y ataque. Idea general del resto
 - Añadidos personajes y enemigos
+- ## 1.3 Versión 2.1
+- Agregadas descripciones y conceptos visuales de los personajes y estilos
+- Correcciones menores
+- 
 # 2.	Introducción
 ## 2.1 Concepto del juego
 *Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello deberá encontrar las piezas de recambio para poder arreglar su avioneta investigando en diversos biomas y enfrentando a una variedad de enemigos.
@@ -105,7 +109,15 @@ Carta de ataque fuerte: El área de efecto del ataque es en eforma de T, siendo 
 
 ## 3.3. Personajes
 ### 3.3.1. Perky (Protagonista)
-Nuesstro protagonista es un cartero que hace uso de las cartas para defenderse y explorar el terreno.
+Nuestro pequeño pero valiente protagonista es un cartero que hace uso de las cartas para defenderse y explorar el terreno.
+### 3.3.1.1 Estilo visual
+Su estilo artístico es una mezcla única entre lo sencillo y lo llamativo, lo que lo hace inconfundible en cualquier escenario. Con su figura redondeada y simpatía desbordante, nuestro personaje se destaca en cualquier multitud.
+
+Lleva un abrigo largo, confeccionado en un llamativo color azul verdoso que contrasta con su piel pálida y amarronada. La bufanda que rodea su cuello está tejida en lana de punto inglés con un color amarillo anaranjado llamativo que no pasará desapercibido.
+
+En sus pies, lleva unas botitas de goma amarillas a juego con la bufandita que llegan hasta la mitad de la pantorrilla. Estas son prácticas y cómodas, ideales para aventurarse en cualquier terreno.
+
+El toque más llamativo de su atuendo es el gorro de aviador que adorna su cabeza. Este gorro es de cuero marrón con una visera de ante, y unas gafas de aviador apoyadas sobre el mismo. Las lentes de las gafas son redondas y tintadas en un tono azul profundo, dándole un aire misterioso y enigmático.
 
 ### 3.3.2. Murciélago
 Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Precisamente por sus rápidos movimientos no es capaz de cambiar de dirección facilmente por lo que se mueve en linea recta. El daño que puede causar es bajo y no dispone de mucha vida.
