@@ -12,7 +12,7 @@
 - ## 1.3 Versión 2.1
 - Agregadas descripciones y conceptos visuales de los personajes y estilos
 - Correcciones menores
-- 
+
 # 2.	Introducción
 ## 2.1 Concepto del juego
 *Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello deberá encontrar las piezas de recambio para poder arreglar su avioneta investigando en diversos biomas y enfrentando a una variedad de enemigos.
