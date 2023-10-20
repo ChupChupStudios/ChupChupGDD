@@ -120,7 +120,7 @@ Carta de ataque fuerte: El área de efecto del ataque es en eforma de T, siendo 
 ## 3.3. Personajes
 ### 3.3.1. Perky (Protagonista)
 Nuestro pequeño pero valiente protagonista es un cartero que hace uso de las cartas para defenderse y explorar el terreno.
-### 3.3.1.1 Estilo visual
+#### 3.3.1.1. Estilo visual
 Su estilo artístico es una mezcla única entre lo sencillo y lo llamativo, lo que lo hace inconfundible en cualquier escenario. Con su figura redondeada y simpatía desbordante, nuestro personaje se destaca en cualquier multitud.
 
 Lleva un abrigo largo, confeccionado en un llamativo color azul verdoso que contrasta con su piel pálida y amarronada. La bufanda que rodea su cuello está tejida en lana de punto inglés con un color amarillo anaranjado llamativo que no pasará desapercibido.
