@@ -9,10 +9,10 @@
 - Añadidas mecánicas de juego.
 - Explicadas uso de cartas y ataque. Idea general del resto
 - Añadidos personajes y enemigos
-- ## 1.4 Versión 2.1
+## 1.4 Versión 2.1
 - Agregadas descripciones y conceptos visuales de los personajes
 - Correcciones menores
-- ## 1.5 Versión 3.0
+## 1.5 Versión 3.0
 - Ampliación de detalles sobre el apartado "2.6. Estilo Visual"
 
 # 2.	Introducción
