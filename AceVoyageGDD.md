@@ -12,8 +12,11 @@
 ## 1.4 Versión 2.1
 - Agregadas descripciones y conceptos visuales de los personajes
 - Correcciones menores
-## 1.5 Versión 3.0
+## 1.5 Versión 2.2
 - Ampliación de detalles sobre el apartado "2.6. Estilo Visual"
+## 1.6 Versión 2.3
+- Ampliación de mecánicas
+- Correcciones menores
 
 # 2.	Introducción
 ## 2.1 Concepto del juego
@@ -93,24 +96,24 @@ En este juego se explora un escenario que cambia con cada bioma y en el que enco
 *Explicar objetivo de quitar la niebla (la niebla cubre las casillas y no se puede pasar ni ver que contiene la casilla hasta que se despeja)*
 
 ### 3.1.3. Estamina
-*Explicar el consumo de estamina (Al pasar por las casillas se consume la estamina, si te quedas sin estamina pierdes la partida)*
+Por cada casilla que el jugador mueve al protagonista, se consume un porcentaje de la estamina máxima. Si esta se acaba, pierdes la partida, por lo que para evitarlo deberás recuperarla mediante cartas.
 
 ### 3.1.4. Uso de cartas
 Nuestro protagonista empieza cada partida con una mano de cartas y podrá conseguir más a lo largo de la partida. Estas cartas se mostrararán en la parte inferior de la pantalla. Habrá varios tipos de cartas: cartas de ataque, cartas de exploración y cartas de estamina. Las cartas podrán seleccionarse de manera que la carta sobresaldrá de la mano y se iluminará en el escenario el area de efecto de dicha carta. De cada categoría de carta existen distintos tipos dependiendo del area de efecto.
-Las cartas de ataque muestran un área frente al jugador y una vez se clica la dirección en la que se quiere usar la carta esta se gasta y hará daño a los enemigos que se encuentren en ese área.
-Las cartas de exploración mostrarán el area de niebla que se despejará frente al jugador. Al usar la carta se gastará y eliminará la niebla del escenario, permitiendo al jugador moverse por la casilla y ver lo que esta contiene,
-Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta se gasta.
+- Las cartas de ataque muestran un área frente al jugador y una vez se clica la dirección en la que se quiere usar la carta esta se gasta y hará daño a los enemigos que se encuentren en ese área.
+- Las cartas de exploración mostrarán el area de niebla que se despejará frente al jugador. Al usar la carta se gastará y eliminará la niebla del escenario, permitiendo al jugador moverse por la casilla y ver lo que esta contiene,
+- Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta se gasta.
 
 ### 3.1.5. Recolección de cartas
 *Explicar la recolección de cartas (aparecen cartas en el escenario al descubrir las casillas. Al caminar sobre esa casilla se recoge la carta y se pone en la mano del jugador)*
 
 ### 3.1.6. Ataque
-El jugador tiene distintas cartas de ataque que puede usar para hacer daño a los enemigos. Para que el ataque tenga éxito tiene que consseguir que los enemigos se encuentren en las casillas en las que hará efecto el ataque. Esto provoca daño en los enemigos matandolos en caso de que su vida sea menor que el daño ejercido. Cartas de ataque:
-Carta de ataque débil: El área de efecto del ataque es de 2x1 en la dirección del jugador. Quita 25 puntos de salud.
-Carta de ataque fuerte: El área de efecto del ataque es en eforma de T, siendo de 2x1 frente al jugador más dos casillas más una a cada lado del final del primer área mencionada. Este ataque quita 50 puntos de salud en el área principal y 25 en los dos extremos.
+El jugador tiene distintas cartas de ataque que puede usar para hacer daño a los enemigos. Para que el ataque tenga éxito tiene que conseguir que los enemigos se encuentren en las casillas en las que hará efecto el ataque. Esto provoca daño en los enemigos matándolos en caso de que su vida sea menor que el daño ejercido. Cartas de ataque:
+- Carta de ataque débil: El área de efecto del ataque es de 2x1 en la dirección del jugador. Quita 25 puntos de salud.
+- Carta de ataque fuerte: El área de efecto del ataque es en forma de T, siendo de 2x1 frente al jugador más dos casillas más una a cada lado del final del primer área mencionada. Este ataque quita 50 puntos de salud en el área principal y 25 en los dos extremos.
 
 ### 3.1.7. Carga de exploración
-*Explicar la barra de carga al caminar (Se carga con cada paso y cuando se carga se puede solicitar una nueva carta)*
+Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de la exploración máxima. Cuando esta llega al máximo se puede solicitar una nueva carta. Esto fomenta la exploración del jugador por el mapa, recompensandolo por dicha acción.
 
 ### 3.1.8. Encontrar piezas y salida
 *Explicar la busqueda y recolección de piezas y la salida (Al igual que las cartas que se encuentran al eliminar la niebla se puede encontrar las piezas del avión y la salida. Para salir hay que recoger la pieza primero. ¿Recoger lore también?)*
@@ -130,7 +133,7 @@ En sus pies, lleva unas botitas de goma amarillas a juego con la bufandita que l
 El toque más llamativo de su atuendo es el gorro de aviador que adorna su cabeza. Este gorro es de cuero marrón con una visera de ante, y unas gafas de aviador apoyadas sobre el mismo. Las lentes de las gafas son redondas y tintadas en un tono azul profundo, dándole un aire misterioso y enigmático.
 
 ### 3.3.2. Murciélago
-Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Precisamente por sus rápidos movimientos no es capaz de cambiar de dirección facilmente por lo que se mueve en linea recta. El daño que puede causar es bajo y no dispone de mucha vida.
+Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Precisamente por sus rápidos movimientos no es capaz de cambiar de dirección facilmente por lo que se mueve en línea recta. El daño que puede causar es bajo y no dispone de mucha vida.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
 |    Vida    |     25     |
