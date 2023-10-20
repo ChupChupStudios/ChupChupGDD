@@ -9,9 +9,11 @@
 - Añadidas mecánicas de juego.
 - Explicadas uso de cartas y ataque. Idea general del resto
 - Añadidos personajes y enemigos
-- ## 1.3 Versión 2.1
-- Agregadas descripciones y conceptos visuales de los personajes y estilos
+- ## 1.4 Versión 2.1
+- Agregadas descripciones y conceptos visuales de los personajes
 - Correcciones menores
+- ## 1.5 Versión 3.0
+- Ampliación de detalles sobre el apartado "2.6. Estilo Visual"
 
 # 2.	Introducción
 ## 2.1 Concepto del juego
@@ -45,7 +47,15 @@ En Ace Voyage, cada nivel tendrá lugar en un bioma diferente, en el que el esce
 -	Combate: el combate con enemigos consistirá en dos fases: una de esquiva, en la que el enemigo atacará unas determinadas casillas y el jugador deberá evitar posicionarse en estas y recibir daño; y otra de ataque, en la que el jugador jugará una carta que le permitirá hacer daño a enemigos que estén posicionados en las casillas en las que se realice el ataque.
 
 ## 2.6.	Estilo Visual
-En cuanto al estilo visual, este será sencillo, cercano a los estilos cell-shading y cartoon. Se tomarán como referencias, entre otros títulos:
+El estilo artístico y visual del videojuego se enfoca en crear un mundo visualmente atractivo y coherente, donde los personajes y el entorno se combinen de manera armoniosa para ofrecer a los jugadores una experiencia única y memorable. Para lograrlo, se ha optado por utilizar una paleta de colores vibrantes, pero no estridentes, con tonos suaves que transmitan una sensación de calma y diversión al mismo tiempo, además de emplear estilos cercanos a los cell-shading y cartoon.
+
+Los personajes principales del juego presentarán formas redondeadas y amigables, lo que les hará fácilmente identificables y simpáticos para los jugadores. Sus rasgos faciales serán suaves y expresivos.
+
+Por otro lado, el escenario del juego también seguirá este estilo artístico. Los paisajes contarán con elementos naturales como árboles, ríos y montañas, pero aportándoles un toque fantástico y mágico. Además, los edificios y estructuras del juego presentarán diseños únicos que combinen elementos tradicionales con un toque moderno y creativo, lo que creará un mundo coherente y cautivador.
+
+Los personajes del juego y los entornos serán diseñados y modelados en 3D, mientras que las cartas serán una mezcla de 2D y 3D.
+
+Se tomarán como referencias, entre otros títulos:
  	 
 ![Mail mole (colores suaves, diseños redondos)](/images/Imagen1.jpg)
 
