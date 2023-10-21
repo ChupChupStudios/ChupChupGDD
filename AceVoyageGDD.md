@@ -17,6 +17,8 @@
 ## 1.6 Versión 2.3
 - Ampliación de mecánicas
 - Correcciones menores
+## 1.7 Versión 2.4
+- Correcciones menores
 
 # 2.	Introducción
 ## 2.1 Concepto del juego
@@ -123,12 +125,10 @@ Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de
 ## 3.3. Personajes
 ### 3.3.1. Perky (Protagonista)
 Nuestro pequeño pero valiente protagonista es un cartero que hace uso de las cartas para defenderse y explorar el terreno.
-#### 3.3.1.1. Estilo visual
-Su estilo artístico es una mezcla única entre lo sencillo y lo llamativo, lo que lo hace inconfundible en cualquier escenario. Con su figura redondeada y simpatía desbordante, nuestro personaje se destaca en cualquier multitud.
 
 Lleva un abrigo largo, confeccionado en un llamativo color azul verdoso que contrasta con su piel pálida y amarronada. La bufanda que rodea su cuello está tejida en lana de punto inglés con un color amarillo anaranjado llamativo que no pasará desapercibido.
 
-En sus pies, lleva unas botitas de goma amarillas a juego con la bufandita que llegan hasta la mitad de la pantorrilla. Estas son prácticas y cómodas, ideales para aventurarse en cualquier terreno.
+En sus pies, lleva unas botas de goma amarillas a juego con la bufandita que llegan hasta la mitad de la pantorrilla. Estas son prácticas y cómodas, ideales para aventurarse en cualquier terreno.
 
 El toque más llamativo de su atuendo es el gorro de aviador que adorna su cabeza. Este gorro es de cuero marrón con una visera de ante, y unas gafas de aviador apoyadas sobre el mismo. Las lentes de las gafas son redondas y tintadas en un tono azul profundo, dándole un aire misterioso y enigmático.
 
