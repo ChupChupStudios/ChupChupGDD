@@ -1,5 +1,24 @@
 # Ace Voyage
 
+## Índice
+1. [Historial de versiones](#1historial-de-versiones)
+2. [Introducción](#2introducción)
+    1. [Concepto del juego](#21-concepto-del-juego)
+    1. [Características principales](#22características-principales)
+    1. [Género](#23género)
+    1. [Propósito y público objetivo](#24propósito-y-público-objetivo)
+    1. [Jugabilidad](#25jugabilidad)
+    1. [Estilo visual](#26estilo-visual)
+    1. [Alcance](#27alcance)
+    1. [Plataforma](#28plataforma)
+    1. [Licencia](#29licencia)
+3. [Mecánicas del juego](#3-mecánicas-de-juego)
+   1. [Jugabilidad](#31-jugabilidad)
+   1. [Flujo de juego](#32-flujo-de-juego)
+   1. [Personajes](#33-personajes)
+   1. [Movimiento e interacción](#34-movimiento-e-interacción)
+***
+***
 # 1.	Historial de versiones
 ## 1.1 Versión 1.0
 - Primera versión de GDD.
@@ -21,9 +40,12 @@
 - Correcciones menores
 ## 1.8 Versión 2.5
 - Desarrollo de la mecánica de movimiento
+## 1.9 Versión 2.6
+- Añadido un índice
+- Correcciones en movimiento (movido de apartado Mecánicas a Movimiento e interacción)
 
 # 2.	Introducción
-## 2.1 Concepto del juego
+## 2.1. Concepto del juego
 *Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello deberá encontrar las piezas de recambio para poder arreglar su avioneta investigando en diversos biomas y enfrentando a una variedad de enemigos.
 
 ## 2.2.	Características principales
@@ -66,19 +88,19 @@ Se tomarán como referencias, entre otros títulos:
  	 
 ![Mail mole (colores suaves, diseños redondos)](/images/Imagen1.jpg)
 
-*Mail mole (colores suaves, diseños redondos)*
+> *Mail mole (colores suaves, diseños redondos)*
 
 ![Animal crossing (colores, anatomía de los personajes)](/images/Imagen2.jpg)
 
-*Animal crossing (colores, anatomía de los personajes)*
+> *Animal crossing (colores, anatomía de los personajes)*
  	 
 ![Tunic (isométrico, aventura, diseño general)](/images/Imagen3.jpg)
 
-*Tunic (isométrico, aventura, diseño general)*
+> *Tunic (isométrico, aventura, diseño general)*
 
 ![Death’s door (isométrico, escenarios)](/images/Imagen4.jpg)
 
-*Death’s door (isométrico, escenarios)*
+> *Death’s door (isométrico, escenarios)*
 
 ## 2.7.	Alcance
 Aunque no hay planes para próximas expansiones o secuelas, el juego contemplaría dicha posibilidad en el caso de cambiar de planes, con expansiones que contendrían más niveles, o con nuevas historias en el mismo universo para nuevas entregas.
@@ -93,34 +115,30 @@ La idea del juego es original.
 ## 3.1. Jugabilidad
 En este juego se explora un escenario que cambia con cada bioma y en el que encontrarás distintos obstaculos como los enemigos y la niebla que te tapa la visión. Para avanzar por el escenario se deberá usar las cartas con las que te podrás defender de los enemigos y despejar la niebla. Además cada movimiento cuenta ya que la estamina se consume con cada paso que se da.
 
-### 3.1.1. Movimiento
-El movimiento está basado en casillas, pues el mapa de juego está formada por estas en forma de bloques. Para poder desplazarse, el jugador debe pulsar sobre la casilla destino, y si es accesible, el personaje recorrerá una ruta calculada mediante el algoritmo de A estrella hasta allí.
-Haciendo que el movimiento se determine pulsando en la pantalla se consigue la capacidad de ejecutar el juego tanto en ordenador como en un dispositivo móvil o tablet, consiguiendo experiencias un poco más similares y dando precisión en ambas plataformas.
-
-### 3.1.2. Quitar niebla
+### 3.1.1. Quitar niebla
 *Explicar objetivo de quitar la niebla (la niebla cubre las casillas y no se puede pasar ni ver que contiene la casilla hasta que se despeja)*
 
-### 3.1.3. Estamina
+### 3.1.2. Estamina
 Por cada casilla que el jugador mueve al protagonista, se consume un porcentaje de la estamina máxima. Si esta se acaba, pierdes la partida, por lo que para evitarlo deberás recuperarla mediante cartas.
 
-### 3.1.4. Uso de cartas
+### 3.1.3. Uso de cartas
 Nuestro protagonista empieza cada partida con una mano de cartas y podrá conseguir más a lo largo de la partida. Estas cartas se mostrararán en la parte inferior de la pantalla. Habrá varios tipos de cartas: cartas de ataque, cartas de exploración y cartas de estamina. Las cartas podrán seleccionarse de manera que la carta sobresaldrá de la mano y se iluminará en el escenario el area de efecto de dicha carta. De cada categoría de carta existen distintos tipos dependiendo del area de efecto.
 - Las cartas de ataque muestran un área frente al jugador y una vez se clica la dirección en la que se quiere usar la carta esta se gasta y hará daño a los enemigos que se encuentren en ese área.
 - Las cartas de exploración mostrarán el area de niebla que se despejará frente al jugador. Al usar la carta se gastará y eliminará la niebla del escenario, permitiendo al jugador moverse por la casilla y ver lo que esta contiene,
 - Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta se gasta.
 
-### 3.1.5. Recolección de cartas
+### 3.1.4. Recolección de cartas
 *Explicar la recolección de cartas (aparecen cartas en el escenario al descubrir las casillas. Al caminar sobre esa casilla se recoge la carta y se pone en la mano del jugador)*
 
-### 3.1.6. Ataque
+### 3.1.5. Ataque
 El jugador tiene distintas cartas de ataque que puede usar para hacer daño a los enemigos. Para que el ataque tenga éxito tiene que conseguir que los enemigos se encuentren en las casillas en las que hará efecto el ataque. Esto provoca daño en los enemigos matándolos en caso de que su vida sea menor que el daño ejercido. Cartas de ataque:
 - Carta de ataque débil: El área de efecto del ataque es de 2x1 en la dirección del jugador. Quita 25 puntos de salud.
 - Carta de ataque fuerte: El área de efecto del ataque es en forma de T, siendo de 2x1 frente al jugador más dos casillas más una a cada lado del final del primer área mencionada. Este ataque quita 50 puntos de salud en el área principal y 25 en los dos extremos.
 
-### 3.1.7. Carga de exploración
+### 3.1.6. Carga de exploración
 Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de la exploración máxima. Cuando esta llega al máximo se puede solicitar una nueva carta. Esto fomenta la exploración del jugador por el mapa, recompensandolo por dicha acción.
 
-### 3.1.8. Encontrar piezas y salida
+### 3.1.7. Encontrar piezas y salida
 *Explicar la busqueda y recolección de piezas y la salida (Al igual que las cartas que se encuentran al eliminar la niebla se puede encontrar las piezas del avión y la salida. Para salir hay que recoger la pieza primero. ¿Recoger lore también?)*
 
 ## 3.2. Flujo de juego
@@ -164,4 +182,9 @@ Un enemigo que acecha a sus victimas y espera a que caigan en su trampa. Se muev
 
 ## 3.4. Movimiento e interacción
 ### 3.4.1. Interacción entre elementos
+Los mapas están formados por bloques que se toman como casillas a la hora de realizar cualquier acción en el entorno (desplazamiento, ataques y consumibles).
+Para moverse, el jugador debe pulsar sobre la casilla destino, y si es accesible, el personaje recorrerá una ruta calculada mediante el algoritmo de A estrella hasta allí.
+De la misma manera, los consumibles y ataques muestran su efecto en el entorno en base a las casillas que abarcan.
+
 ### 3.4.2. Controles
+Prácticamente la totalidad del tiempo de juego el jugador estará usando el ratón (si se juega en ordenador), pues todas las acciones principales se realizan con este: marcar una casilla para moverse, arrastrar cartas y abrir menús. Así se consiguen unos controles más unificados entre plataformas (ordenador y dispositivos tablets), facilitando el desarrollo y brindando precisión al jugador en la toma de decisiones.
