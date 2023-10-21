@@ -19,6 +19,8 @@
 - Correcciones menores
 ## 1.7 Versión 2.4
 - Correcciones menores
+## 1.8 Versión 2.5
+- Desarrollo de la mecánica de movimiento
 
 # 2.	Introducción
 ## 2.1 Concepto del juego
@@ -92,7 +94,8 @@ La idea del juego es original.
 En este juego se explora un escenario que cambia con cada bioma y en el que encontrarás distintos obstaculos como los enemigos y la niebla que te tapa la visión. Para avanzar por el escenario se deberá usar las cartas con las que te podrás defender de los enemigos y despejar la niebla. Además cada movimiento cuenta ya que la estamina se consume con cada paso que se da.
 
 ### 3.1.1. Movimiento
-*Explicar el movimiento (pathfinding al clicar una casilla)*
+El movimiento está basado en casillas, pues el mapa de juego está formada por estas en forma de bloques. Para poder desplazarse, el jugador debe pulsar sobre la casilla destino, y si es accesible, el personaje recorrerá una ruta calculada mediante el algoritmo de A estrella hasta allí.
+Haciendo que el movimiento se determine pulsando en la pantalla se consigue la capacidad de ejecutar el juego tanto en ordenador como en un dispositivo móvil o tablet, consiguiendo experiencias un poco más similares y dando precisión en ambas plataformas.
 
 ### 3.1.2. Quitar niebla
 *Explicar objetivo de quitar la niebla (la niebla cubre las casillas y no se puede pasar ni ver que contiene la casilla hasta que se despeja)*
