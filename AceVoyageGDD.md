@@ -114,6 +114,11 @@ El juego será desarrollado para navegadores web, siendo jugable tanto en PC com
 ## 2.9.	Licencia
 La idea del juego es original.
 
+## 2.10. Requisitos
+Dependiendo del dispositivo en el que se desea jugar a *Ace Voyage* son necesarios una serie de requisitos mínimos:
+- PC/Itch.io: es necesario dsponer de uno de los siguientes navegadores: Chrome o Mozilla Firefox (recomendado tenerlos actualizados a la última versión).
+- Android: es necesario disponer de la versión 7.0 Nougat u otra posterior. También se recomienda tener una pantalla suficientemente grande (aproximadamente 10 pulgadas o mayor).
+
 # 3. Mecánicas de juego
 ## 3.1. Jugabilidad
 En este juego se explora un escenario que cambia con cada bioma y en el que encontrarás distintos obstaculos como los enemigos y la niebla que te tapa la visión. Para avanzar por el escenario se deberá usar las cartas con las que te podrás defender de los enemigos y despejar la niebla. Además cada movimiento cuenta ya que la estamina se consume con cada paso que se da.
