@@ -171,9 +171,9 @@ Lo primero que se encuentra el jugador es la pantalla con el menú principal. Se
 
 Cada bioma está conformado por niveles independientes. Para avanzar al siguiente, el jugador debe completar el nivel anterior. Los niveles que completa el jugador son guardados para que continúe el progreso por donde lo dejó cuando vuelva al juego. Al entrar a un nivel, el jugador se encuentra con un terreno dividido en casillas y la interfaz, en la que se muestran las barras de energía y exploración y la mano de cartas actual. También se le indica el objetivo del nivel, el cual siempre es recoger una de las piezas del avión de *Patt*.
 
-Por el terreno el jugador debe lidiar con la niebla y los enemigos que obstaculizan el camino, así como con una posible escasez de cartas y de energía. Para conseguir más cartas el jugador puede recogerlas del suelo (si hay), eliminar enemigos o avanzar por las casillas, esto último significa gastar energía para llenar la barra de exploración, cuando esta se llena se le da una carta nueva.
+Por el terreno el jugador debe lidiar con la niebla (que oculta las partes del terreno) y los enemigos que obstaculizan el camino, así como con una posible escasez de cartas y de energía. Para conseguir más cartas el jugador puede recogerlas del suelo (si hay), eliminar enemigos o avanzar por las casillas, esto último significa gastar energía para llenar la barra de exploración, cuando esta se llena se le da una carta nueva.
 
-Si consigue alcanzar la pieza sin haber perdido toda la energía, el nivel se completa exitosamente y se presenta una pantalla de victoria, dando la opción de regresar al menú. Cada vez que se completa el último nivel de un bioma, se muestra una cinemática en la que se cuenta un poco más de la historia del protagonista.
+Si consigue alcanzar la pieza y llegar a la salida sin haber perdido toda la energía, el nivel se completa exitosamente y se presenta una pantalla de victoria, dando la opción de regresar al menú. Cada vez que se completa el último nivel de un bioma, se muestra una cinemática en la que se cuenta un poco más de la historia del protagonista.
 
 Por el contrario, si el jugador pierde toda la energía antes de haber alcanzado la pieza, se muestra una pantalla de derrota, dando la posibilidad de reintentarlo o volver al menú.
 
