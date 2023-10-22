@@ -18,9 +18,10 @@
    1. [Flujo de juego](#32-flujo-de-juego)
    1. [Personajes](#33-personajes)
    1. [Movimiento e interacción](#34-movimiento-e-interacción)
-4. [Modelo de negocio y monetización](#4-modelo-de-negocio-y-monetización)
-   1. [Modelo de negocio](#41-modelo-de-negocio)
-   1. [Monetización](#42-monetización)
+4. [Interfaz](#4-interfaz)
+5. [Modelo de negocio y monetización](#5-modelo-de-negocio-y-monetización)
+   1. [Modelo de negocio](#51-modelo-de-negocio)
+   1. [Monetización](#52-monetización)
 
 ***
 ***
@@ -61,6 +62,8 @@
 - Añadida la explicación de flujo de juego
 ## 1.14 Versión 3.2
 - Modificada la expliacación de pensamiento computacional
+## 1.15 Versión 3.3
+- Añadida la interfaz
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -228,8 +231,27 @@ De la misma manera, los consumibles y ataques muestran su efecto en el entorno e
 ### 3.4.2. Controles
 Prácticamente la totalidad del tiempo de juego el jugador estará usando el ratón (si se juega en ordenador), pues todas las acciones principales se realizan con este: marcar una casilla para moverse, arrastrar cartas y abrir menús. Así se consiguen unos controles más unificados entre plataformas (ordenador y dispositivos tablets), facilitando el desarrollo y brindando precisión al jugador en la toma de decisiones.
 
-# 4. Modelo de negocio y monetización
-## 4.1. Modelo de negocio
+# 4. Interfaz
+A continuación, se muestrán las cuatro pantallas básicas de la interfaz del videojuego.
+
+![Pantalla del menú principal](/images/Menú_principal.png)
+
+> *Pantalla del menú principal*
+
+![Pantalla de contacto y créditos](/images/Contacto_y_créditos.png)
+
+> *Pantalla de contacto y créditos*
+
+![Pantalla de juego](/images/Juego.png)
+
+> *Pantalla de juego*
+
+![Pantalla de partida perdida](/images/Partida_perdida.png)
+
+> *Pantalla de partida perdida*
+
+# 5. Modelo de negocio y monetización
+## 5.1. Modelo de negocio
 Nuestra empresa sigue un modelo de negocio que resulta de la fusión del modelo de eliminación de intermediarios y la venta directa. Esta estrategia implica que nosotros mismos nos acerquemos y trabajemos directamente con nuestros clientes, que en este caso son centros educativos, sin necesidad de recurrir a intermediarios externos. Para desarrollar y definir este modelo de negocio, hemos utilizado varias metodologías que nos han proporcionado una comprensión más profunda y una base sólida:
 - Información sobre el Usuario: Hemos llevado a cabo una investigación exhaustiva para comprender a fondo a nuestro cliente, en este caso, los centros, y su entorno.
 
@@ -255,5 +277,5 @@ Nuestra empresa sigue un modelo de negocio que resulta de la fusión del modelo 
 
 > *Modelo de Lienzo*
 
-## 4.2. Monetización
+## 5.2. Monetización
 En términos de monetización, hemos optado por un modelo de "pay-to-play" que implica una suscripción trimestral. Esta estrategia permite a los centros educativos adquirir nuestro producto anualmente, durante los trimestres en los que lo necesiten, de modo que puedan aprovechar al máximo su inversión y no sientan que están desperdiciando recursos.
