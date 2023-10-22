@@ -128,7 +128,7 @@ Nuestro protagonista empieza cada partida con una mano de cartas y podrá conseg
 - Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta se gasta.
 
 ### 3.1.4. Recolección de cartas
-*Explicar la recolección de cartas (aparecen cartas en el escenario al descubrir las casillas. Al caminar sobre esa casilla se recoge la carta y se pone en la mano del jugador)*
+Cada casilla puede tener sobre ella una carta. Cuando el jugador desplaza su personaje hasta la propia casilla recoge la carta y esta pasa a formar parte de su mano. 
 
 ### 3.1.5. Ataque
 El jugador tiene distintas cartas de ataque que puede usar para hacer daño a los enemigos. Para que el ataque tenga éxito tiene que conseguir que los enemigos se encuentren en las casillas en las que hará efecto el ataque. Esto provoca daño en los enemigos matándolos en caso de que su vida sea menor que el daño ejercido. Cartas de ataque:
@@ -139,7 +139,7 @@ El jugador tiene distintas cartas de ataque que puede usar para hacer daño a lo
 Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de la exploración máxima. Cuando esta llega al máximo se puede solicitar una nueva carta. Esto fomenta la exploración del jugador por el mapa, recompensandolo por dicha acción.
 
 ### 3.1.7. Encontrar piezas y salida
-*Explicar la busqueda y recolección de piezas y la salida (Al igual que las cartas que se encuentran al eliminar la niebla se puede encontrar las piezas del avión y la salida. Para salir hay que recoger la pieza primero. ¿Recoger lore también?)*
+De igual manera que las cartas, las casillas pueden tener en ellas las piezas de la avioneta que conducía el protagonista. Además, una casilla concreta de todo el tablero será la salida. Al llegar a ella, se consigue avanzar al siguiente nivel siempre y cuando, previamente, se haya conseguido la pieza de la avioneta que haya en el nivel. 
 
 ## 3.2. Flujo de juego
 
