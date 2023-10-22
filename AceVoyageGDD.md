@@ -12,11 +12,16 @@
     1. [Alcance](#27alcance)
     1. [Plataforma](#28plataforma)
     1. [Licencia](#29licencia)
+    1. [Requisitos](#210-requisitos)
 3. [Mecánicas del juego](#3-mecánicas-de-juego)
    1. [Jugabilidad](#31-jugabilidad)
    1. [Flujo de juego](#32-flujo-de-juego)
    1. [Personajes](#33-personajes)
    1. [Movimiento e interacción](#34-movimiento-e-interacción)
+4. [Modelo de negocio y monetización](#4-modelo-de-negocio-y-monetización)
+   1. [Modelo de negocio](#41-modelo-de-negocio)
+   1. [Monetización](#42-monetización)
+
 ***
 ***
 # 1.	Historial de versiones
@@ -43,9 +48,15 @@
 ## 1.9 Versión 2.6
 - Añadido un índice
 - Correcciones en movimiento (movido de apartado Mecánicas a Movimiento e interacción)
-##1.10 Versión 2.7
+## 1.10 Versión 2.7
 - Explicación de mecánicas de recogida de cartas, recogida de piezas y salida.
 - Correción menores.
+## 1.11 Versión 2.8
+- Añadido el apartado de requisitos mínimos
+## 1.12 Versión 3.0
+- Añadido el apartado "4. Modelo de negocio y monetización"
+- Incluidas imágenes del apartado 4.1
+- Correcciones menores
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -180,7 +191,7 @@ Un enemigo que tiene un gran olfato que le permite perseguir al jugador haya a d
 |   Ataque   | 1  Casilla |
 
 ### 3.3.4. Araña
-Un enemigo que acecha a sus victimas y espera a que caigan en su trampa. Se mueve muy lentamente para evitar ser detectado mientras prepara sus trampas de telaraña por el camino. Cuando su presa se encuentra a su alcance ataca causando mucho daño a su alrededor y relentizando su marcha, si es que consigue escapar. Además tiene una armadura de telaraña la cual le proporciona una fuerte protección frente a los ataques.
+Un enemigo que acecha a sus víctimas y espera a que caigan en su trampa. Se mueve muy lentamente para evitar ser detectado mientras prepara sus trampas de telaraña por el camino. Cuando su presa se encuentra a su alcance ataca causando mucho daño a su alrededor y relentizando su marcha, si es que consigue escapar. Además tiene una armadura de telaraña la cual le proporciona una fuerte protección frente a los ataques.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
 |    Vida    |     75     |
@@ -196,3 +207,33 @@ De la misma manera, los consumibles y ataques muestran su efecto en el entorno e
 
 ### 3.4.2. Controles
 Prácticamente la totalidad del tiempo de juego el jugador estará usando el ratón (si se juega en ordenador), pues todas las acciones principales se realizan con este: marcar una casilla para moverse, arrastrar cartas y abrir menús. Así se consiguen unos controles más unificados entre plataformas (ordenador y dispositivos tablets), facilitando el desarrollo y brindando precisión al jugador en la toma de decisiones.
+
+# 4. Modelo de negocio y monetización
+## 4.1. Modelo de negocio
+Nuestra empresa sigue un modelo de negocio que resulta de la fusión del modelo de eliminación de intermediarios y la venta directa. Esta estrategia implica que nosotros mismos nos acerquemos y trabajemos directamente con nuestros clientes, que en este caso son centros educativos, sin necesidad de recurrir a intermediarios externos. Para desarrollar y definir este modelo de negocio, hemos utilizado varias metodologías que nos han proporcionado una comprensión más profunda y una base sólida:
+- Información sobre el Usuario: Hemos llevado a cabo una investigación exhaustiva para comprender a fondo a nuestro cliente, en este caso, los centros, y su entorno.
+
+![Información sobre el Usuario](/images/informacionSobreElUsuario.png)
+
+> *Información sobre el Usuario*
+
+- Mapa de Empatía: Utilizamos el mapa de empatía para profundizar en la perspectiva de nuestros clientes, comprender sus opiniones y preocupaciones con respecto a nuestros productos y servicios.
+
+![Mapa de Empatía](/images/mapaDeEmpatia.png)
+
+> *Mapa de Empatía*
+
+- Caja de Herramientas: Hemos empleado una caja de herramientas que describe nuestro modelo de negocio a través de una serie de componentes que representan las diferentes partes afectadas por las actividades de nuestra empresa, así como las distintas acciones y relaciones que se establecen entre ellas.
+
+![Caja de Herramientas](/images/cajaDeHerramientas.png)
+
+> *Caja de Herramientas*
+
+- Modelo de Lienzo: Para obtener una representación visual y clara de nuestra infraestructura, oferta, tipo de clientes y aspectos financieros de nuestra empresa.
+
+![Modelo de Lienzo](/images/modeloDeLienzo.png)
+
+> *Modelo de Lienzo*
+
+## 4.2. Monetización
+En términos de monetización, hemos optado por un modelo de "pay-to-play" que implica una suscripción trimestral. Esta estrategia permite a los centros educativos adquirir nuestro producto anualmente, durante los trimestres en los que lo necesiten, de modo que puedan aprovechar al máximo su inversión y no sientan que están desperdiciando recursos.
