@@ -59,6 +59,8 @@
 - Correcciones menores
 ## 1.13 Versión 3.1
 - Añadida la explicación de flujo de juego
+## 1.14 Versión 3.2
+- Modificada la expliacación de pensamiento computacional
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -68,12 +70,13 @@
 El juego se caracteriza por:
 
 ### 2.2.1. Aprendizaje computacional
-Una de las principales características del videojuego es desarrollar el pensamiento computacional en niños menores de 12 años. El penamiento computacional permite a estos niños resolver problemas haciendo uso de los conceptos fundamentales de la informática. Así, entre las destrezas que pertenecen a esta rama de pensamiento, nuestro videojuego potencia las siguientes destrezas:
-- Abstracción: el reconocimiento de patrones está presente en este apartado. De esta manera, el niño deberá reconocer diferentes patrones, como son los ataques de enemigos, que atacarán periódicamente en cierta área de casillas, para superar los niveles.
-- Pensamiento algorítmico: el niño deberá centrar su atención en crear algoritmos, que pueden consistir en jugar ciertas cartas en cierto orden, o en derrotar a ciertos enemigos de diferentes formas, dependiendo del tipo de estos.
-- Evaluación: en este caso, el niño deberá intentar gestionar de la manera más eficiente las cartas de su mano, de manera que utilice las menos posibles para superar el nivel.
+En la actualidad, la educación en programación y la evaluación de habilidades computacionales forman parte del plan de estudios en centros educativos españoles y en muchos otros países, incluso desde la etapa de educación infantil. Por otro lado, los niños comienzan a jugar videojuegos a edades cada vez más tempranas. Por esta razón, resulta sumamente interesante desarrollar videojuegos que fomenten el desarrollo de estas habilidades, ya sea en una sola dimensión o en varias. Un amplio abanico de videojuegos podría encajar en esta categoría, como, por ejemplo, juegos de rompecabezas que desafíen a encontrar rutas y superar obstáculos, juegos de estrategia que requieran la gestión de recursos, o juegos de plataformas con desafíos diversos. Con la motivación de poder desarrollar un videojuego que propicie la mejora de esta habilidad, ciertos aspectos de este proyecto, especialmente las mecánicas, están orientadas a este fin. 
+Entre las destrezas que se asocian al uso de un PC y el juego pretende desarrollar se encuentran:
+-	Abstracción: el reconocimiento de patrones esta presente en este apartado. Nuestro juego proporciona situaciones para el desarrollo de esta habilidad, por ejemplo, con las pautas de movimiento de los distintos enemigos. En este caso, el murciélago ataca desplazándose en una única dirección, mientras que el lobo persigue al jugador por el mapa. 
+-	Pensamiento algorítmico: el niño deberá centrar su atención en crear algoritmos, que pueden consistir en jugar algunas cartas en cierto orden, o en derrotar a ciertos enemigos de diferentes formas, dependiendo del tipo de estos. Se puede ejemplificar con la necesidad de usar cartas para despejar la niebla si se pretende desplazarse a una casilla cubierta por la misma.
+-	Evaluación: en este caso, el niño deberá intentar gestionar de la manera más eficiente los distintos recursos y herramientas del videojuego. Quizá es en este aspecto donde mayor desarrollo puede notarse, debido a las distintas mecánicas que potencian esta destreza. El niño deberá gestionar el uso de cartas durante todo el nivel, debido a que estas son limitadas y sus funciones son imprescindibles para completar la pantalla. Además, la mecánica de estamina y exploración. Con estas, el niño debe evaluar la situación y decidir si es asumible, negativo o incluso positivo para su personaje el desplazamiento a según que casilla. 
+Así, el videojuego recogerá datos, como el número de casillas exploradas, el número de cartas utilizadas por el niño para completar cada nivel o las veces en las que el niño pierde la partida de una u otra forma. De manera que, accediendo a estos datos en una base de datos, los profesores o responsables de estos niños puedan evaluar su evolución en el aprendizaje computacional. 
 
-Así, el videojuego recogerá ciertos datos, como son el número de casillas exploradas y el número de cartas utilizadas por el niño para completar cada nivel, de manera que, accediendo a estos datos en una base de datos, los profesores o responsables de estos niños puedan evaluar su evolución en el aprendizaje computacional.
 
 ## 2.3.	Género
 Ace Voyage posee una mezcla de los siguientes géneros:
