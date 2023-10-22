@@ -57,6 +57,8 @@
 - Añadido el apartado "4. Modelo de negocio y monetización"
 - Incluidas imágenes del apartado 4.1
 - Correcciones menores
+## 1.13 Versión 3.1
+- Añadida la explicación de flujo de juego
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -161,6 +163,21 @@ Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de
 De igual manera que las cartas, las casillas pueden tener en ellas las piezas de la avioneta que conducía el protagonista. Además, una casilla concreta de todo el tablero será la salida. Al llegar a ella, se consigue avanzar al siguiente nivel siempre y cuando, previamente, se haya conseguido la pieza de la avioneta que haya en el nivel. 
 
 ## 3.2. Flujo de juego
+La experiencia del jugador en una partida normal de *Ace Voyage* no dista demasiado en forma de lo que sería una partida en un videojuego normal, sobre todo en cuanto a lo que tipo de pantallas se refiere.
+
+Lo primero que se encuentra el jugador es la pantalla con el menú principal. Se le dan las opciones de jugar y de configurar las opciones del juego. Al pulsar en jugar se muestra una pantalla de selección de bioma en la que se deberá elegir el grupo de niveles en el que se quiere avanzar.
+
+*Ace Voyage* está estructurado en biomas. Cuando el jugador escoge por primera vez un bioma, se le muestra una corta cinemática en la que se cuenta parte de la historia.
+
+Cada bioma está conformado por niveles independientes. Para avanzar al siguiente, el jugador debe completar el nivel anterior. Los niveles que completa el jugador son guardados para que continúe el progreso por donde lo dejó cuando vuelva al juego. Al entrar a un nivel, el jugador se encuentra con un terreno dividido en casillas y la interfaz, en la que se muestran las barras de energía y exploración y la mano de cartas actual. También se le indica el objetivo del nivel, el cual siempre es recoger una de las piezas del avión de *Patt*.
+
+Por el terreno el jugador debe lidiar con la niebla y los enemigos que obstaculizan el camino, así como con una posible escasez de cartas y de energía. Para conseguir más cartas el jugador puede recogerlas del suelo (si hay), eliminar enemigos o avanzar por las casillas, esto último significa gastar energía para llenar la barra de exploración, cuando esta se llena se le da una carta nueva.
+
+Si consigue alcanzar la pieza sin haber perdido toda la energía, el nivel se completa exitosamente y se presenta una pantalla de victoria, dando la opción de regresar al menú. Cada vez que se completa el último nivel de un bioma, se muestra una cinemática en la que se cuenta un poco más de la historia del protagonista.
+
+Por el contrario, si el jugador pierde toda la energía antes de haber alcanzado la pieza, se muestra una pantalla de derrota, dando la posibilidad de reintentarlo o volver al menú.
+
+El jugador puede iniciar todos los niveles desbloqueados las veces que desee.
 
 ## 3.3. Personajes
 ### 3.3.1. Patt (Protagonista)
