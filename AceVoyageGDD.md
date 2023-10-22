@@ -43,6 +43,9 @@
 ## 1.9 Versión 2.6
 - Añadido un índice
 - Correcciones en movimiento (movido de apartado Mecánicas a Movimiento e interacción)
+##1.10 Versión 2.7
+- Explicación de mecánicas de recogida de cartas, recogida de piezas y salida.
+- Correción menores.
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -144,7 +147,7 @@ De igual manera que las cartas, las casillas pueden tener en ellas las piezas de
 ## 3.2. Flujo de juego
 
 ## 3.3. Personajes
-### 3.3.1. Perky (Protagonista)
+### 3.3.1. Patt (Protagonista)
 Nuestro pequeño pero valiente protagonista es un cartero que hace uso de las cartas para defenderse y explorar el terreno.
 
 Lleva un abrigo largo, confeccionado en un llamativo color azul verdoso que contrasta con su piel pálida y amarronada. La bufanda que rodea su cuello está tejida en lana de punto inglés con un color amarillo anaranjado llamativo que no pasará desapercibido.
