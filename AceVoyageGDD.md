@@ -64,10 +64,13 @@
 - Modificada la expliacación de pensamiento computacional
 ## 1.15 Versión 3.3
 - Añadida la interfaz
+## 1.16 Versión 3.4
+- Correcciones menores
+- Mejoras en la redacción
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
-*Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello deberá encontrar las piezas de recambio para poder arreglar su avioneta investigando en diversos biomas y enfrentando a una variedad de enemigos.
+*Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello, deberá encontrar las piezas de recambio para poder arreglar su avioneta, investigando en diversos biomas y enfrentándose a una gran variedad de enemigos.
 
 ## 2.2.	Características principales
 El juego se caracteriza por:
@@ -75,27 +78,28 @@ El juego se caracteriza por:
 ### 2.2.1. Aprendizaje computacional
 En la actualidad, la educación en programación y la evaluación de habilidades computacionales forman parte del plan de estudios en centros educativos españoles y en muchos otros países, incluso desde la etapa de educación infantil. Por otro lado, los niños comienzan a jugar videojuegos a edades cada vez más tempranas. Por esta razón, resulta sumamente interesante desarrollar videojuegos que fomenten el desarrollo de estas habilidades, ya sea en una sola dimensión o en varias. Un amplio abanico de videojuegos podría encajar en esta categoría, como, por ejemplo, juegos de rompecabezas que desafíen a encontrar rutas y superar obstáculos, juegos de estrategia que requieran la gestión de recursos, o juegos de plataformas con desafíos diversos. Con la motivación de poder desarrollar un videojuego que propicie la mejora de esta habilidad, ciertos aspectos de este proyecto, especialmente las mecánicas, están orientadas a este fin. 
 Entre las destrezas que se asocian al uso de un PC y el juego pretende desarrollar se encuentran:
--	Abstracción: el reconocimiento de patrones esta presente en este apartado. Nuestro juego proporciona situaciones para el desarrollo de esta habilidad, por ejemplo, con las pautas de movimiento de los distintos enemigos. En este caso, el murciélago ataca desplazándose en una única dirección, mientras que el lobo persigue al jugador por el mapa. 
+-	Abstracción: el reconocimiento de patrones está presente en este apartado. Nuestro juego proporciona situaciones para el desarrollo de esta habilidad, por ejemplo, con las pautas de movimiento de los distintos enemigos. En este caso, el murciélago ataca desplazándose en una única dirección, mientras que el lobo persigue al jugador por el mapa. 
 -	Pensamiento algorítmico: el niño deberá centrar su atención en crear algoritmos, que pueden consistir en jugar algunas cartas en cierto orden, o en derrotar a ciertos enemigos de diferentes formas, dependiendo del tipo de estos. Se puede ejemplificar con la necesidad de usar cartas para despejar la niebla si se pretende desplazarse a una casilla cubierta por la misma.
--	Evaluación: en este caso, el niño deberá intentar gestionar de la manera más eficiente los distintos recursos y herramientas del videojuego. Quizá es en este aspecto donde mayor desarrollo puede notarse, debido a las distintas mecánicas que potencian esta destreza. El niño deberá gestionar el uso de cartas durante todo el nivel, debido a que estas son limitadas y sus funciones son imprescindibles para completar la pantalla. Además, la mecánica de estamina y exploración. Con estas, el niño debe evaluar la situación y decidir si es asumible, negativo o incluso positivo para su personaje el desplazamiento a según que casilla. 
-Así, el videojuego recogerá datos, como el número de casillas exploradas, el número de cartas utilizadas por el niño para completar cada nivel o las veces en las que el niño pierde la partida de una u otra forma. De manera que, accediendo a estos datos en una base de datos, los profesores o responsables de estos niños puedan evaluar su evolución en el aprendizaje computacional. 
+-	Evaluación: en este caso, el niño deberá intentar gestionar de la manera más eficiente los distintos recursos y herramientas del videojuego. Quizá es en este aspecto donde mayor desarrollo puede notarse, debido a las distintas mecánicas que potencian esta destreza. El niño deberá gestionar el uso de cartas durante todo el nivel, ya que estas son limitadas, y sus funciones son imprescindibles para completar la pantalla. Además, con las mecánicas de estamina y exploración, el niño debe evaluar la situación y decidir si es asumible, negativo o incluso positivo para su personaje el desplazamiento a según qué casilla. 
+Así, el videojuego recogerá datos, como el número de casillas exploradas, el número de cartas empleadas por el niño para completar cada nivel, o las veces en las que el niño pierde la partida de una u otra forma. Esto permitirá, accediendo a estos datos almacenados en una base de datos, que los profesores o responsables de estos niños puedan evaluar su evolución en el aprendizaje computacional. 
 
 
 ## 2.3.	Género
 Ace Voyage posee una mezcla de los siguientes géneros:
 -	Aventura/exploración: el objetivo principal del jugador será explorar los escenarios de cada nivel en busca de recursos, y, sobre todo, la casilla de salida.
--	Puzzle/estrategia: para conseguir superar los niveles, el jugador deberá jugar las cartas que posee estratégicamente.
+-	Puzzle/estrategia: para conseguir superar los niveles, el jugador deberá jugar las cartas de las que dispone estratégicamente.
 
 ## 2.4.	Propósito y público objetivo
-El propósito principal del videojuego se centra en al enseñanza de pensamiento computacional en niños de edades comprendidas entre 3 y 12 años, como ya se ha desarrollado en el apartado "2.2.1". Por ello, y teniendo en cuenta que ya existen numerosos videojuegos de enseñanza que no resultan divertidos para los niños, se ha de centrar también el objetivo del proyecto en hacer un videojuego de aprendizaje, pero que a su vez resulte entretenido y divertido para niños.
+El propósito principal del videojuego se centra en la enseñanza de pensamiento computacional en niños de edades comprendidas entre 3 y 12 años, como ya se ha desarrollado en el apartado "2.2.1". Por ello, y teniendo en cuenta que ya existen numerosos videojuegos de enseñanza que no resultan divertidos para los niños, se ha de centrar también en hacer un videojuego de aprendizaje, pero que a su vez resulte entretenido y divertido para niños.
 Por otro lado, para lograr dicho propósito se ha optado por un sistema de niveles cortos y rejugables, que mantengan al usuario jugando sin llegar a cansarle a causa de largas sesiones.
 
 ## 2.5.	Jugabilidad
-En Ace Voyage, cada nivel tendrá lugar en un bioma diferente, en el que el escenario se mostrará en forma de tablero con casillas cuadradas, las cuales la gran mayoría se encontraran ocultas bajo nubes o niebla. El objetivo principal en cada nivel será explorar el escenario, despejando estas nubes, tratando de encontrar la pieza del avión correspondiente a ese nivel, y posteriormente la casilla de salida para desbloquear el siguiente nivel. Para ello, el jugador hará uso de las siguientes acciones:
+En Ace Voyage, cada nivel tendrá lugar en un bioma diferente, en el que el escenario se mostrará en forma de tablero con casillas cuadradas. Estas casillas, en su mayoría, se encontrarán ocultas bajo nubes o niebla.
+El objetivo principal en cada nivel será explorar el escenario, despejando estas nubes, tratando de encontrar la pieza del avión correspondiente a ese nivel, y, posteriormente, la casilla de salida para desbloquear el siguiente nivel. Para ello, el jugador hará uso de las siguientes acciones:
 -	Movilidad: el jugador podrá moverse por el escenario deslizando en la dirección en la que quiera y le permita el propio tablero.
--	Juego de cartas: estas permitirán descubrir casillas ocultas, regenerar estamina (que se irán gastando con el movimiento) y salud, o atacar a enemigos.
--	Obtención de cartas: el jugador podrá obtener cartas en casillas recién descubiertas, o explorando las casillas ya descubiertas (en el caso de que se haya quedado sin cartas previamente)
--	Combate: el combate con enemigos consistirá en dos fases: una de esquiva, en la que el enemigo atacará unas determinadas casillas y el jugador deberá evitar posicionarse en estas y recibir daño; y otra de ataque, en la que el jugador jugará una carta que le permitirá hacer daño a enemigos que estén posicionados en las casillas en las que se realice el ataque.
+-	Juego de cartas: estas permitirán descubrir casillas ocultas, regenerar estamina (que se irá gastando con el movimiento) y salud, o atacar a enemigos.
+-	Obtención de cartas: el jugador podrá obtener cartas en casillas recién descubiertas, o explorando las casillas ya descubiertas (en el caso de que se haya quedado sin cartas previamente).
+-	Combate: el combate con enemigos consistirá en dos fases: una de esquiva, en la que el enemigo atacará unas determinadas casillas, y el jugador deberá evitar posicionarse en estas y recibir daño; y otra de ataque, en la que el jugador jugará una carta que le permitirá hacer daño a enemigos que estén posicionados en las casillas en las que se realice el ataque.
 
 ## 2.6.	Estilo Visual
 El estilo artístico y visual del videojuego se enfoca en crear un mundo visualmente atractivo y coherente, donde los personajes y el entorno se combinen de manera armoniosa para ofrecer a los jugadores una experiencia única y memorable. Para lograrlo, se ha optado por utilizar una paleta de colores vibrantes, pero no estridentes, con tonos suaves que transmitan una sensación de calma y diversión al mismo tiempo, además de emplear estilos cercanos a los cell-shading y cartoon.
@@ -125,13 +129,13 @@ Se tomarán como referencias, entre otros títulos:
 > *Death’s door (isométrico, escenarios)*
 
 ## 2.7.	Alcance
-Aunque no hay planes para próximas expansiones o secuelas, el juego contemplaría dicha posibilidad en el caso de cambiar de planes, con expansiones que contendrían más niveles, o con nuevas historias en el mismo universo para nuevas entregas.
+Aunque no hay planes concretos para próximas expansiones o secuelas en este momento, el juego está diseñado de manera que pueda considerarse dicha posibilidad en el futuro. En caso de que sea necesario, se podrían desarrollar expansiones que incluyan más niveles o nuevas historias en el mismo universo para futuras entregas.
 
 ## 2.8.	Plataforma
 El juego será desarrollado para navegadores web, siendo jugable tanto en PC como en tablets (principal herramienta de aprendizaje con nuevas tecnologías en colegios).
 
 ## 2.9.	Licencia
-La idea del juego es original.
+La premisa del juego es totalmente original y única, sin estar basada en ninguna propiedad intelectual previa ni en conceptos preexistentes en el mundo de los videojuegos. El equipo de desarrollo ha trabajado en la creación de un mundo, mecánicas de juego y personajes que son innovadores y no se derivan de ninguna fuente externa. El enfoque principal es ofrecer a los jugadores una experiencia fresca y emocionante que no se asemeje a ningún otro juego existente.
 
 ## 2.10. Requisitos
 Dependiendo del dispositivo en el que se desea jugar a *Ace Voyage* son necesarios una serie de requisitos mínimos:
@@ -140,48 +144,52 @@ Dependiendo del dispositivo en el que se desea jugar a *Ace Voyage* son necesari
 
 # 3. Mecánicas de juego
 ## 3.1. Jugabilidad
-En este juego se explora un escenario que cambia con cada bioma y en el que encontrarás distintos obstaculos como los enemigos y la niebla que te tapa la visión. Para avanzar por el escenario se deberá usar las cartas con las que te podrás defender de los enemigos y despejar la niebla. Además cada movimiento cuenta ya que la estamina se consume con cada paso que se da.
+En este juego, se explora un escenario que cambia con cada bioma y en el los jugadores encontrarán distintos obstáculos, como enemigos y niebla, que reduce la visión del tablero. Para avanzar por el escenario, se deberán usar las cartas con las que los usuarios podrán defenderse de los enemigos y despejar la niebla. Además, cada movimiento cuenta, ya que la estamina se consume con cada paso que se da.
 
 ### 3.1.1. Quitar niebla
 *Explicar objetivo de quitar la niebla (la niebla cubre las casillas y no se puede pasar ni ver que contiene la casilla hasta que se despeja)*
 
 ### 3.1.2. Estamina
-Por cada casilla que el jugador mueve al protagonista, se consume un porcentaje de la estamina máxima. Si esta se acaba, pierdes la partida, por lo que para evitarlo deberás recuperarla mediante cartas.
+En cada casilla que el jugador mueve al protagonista, se consume un porcentaje de su estamina máxima. Si la estamina se agota por completo, el jugador perderá la partida, por lo que es fundamental administrar cuidadosamente los recursos y movimientos. Es importante destacar que es posible recuperar estamina mediante el uso de cartas.
 
 ### 3.1.3. Uso de cartas
-Nuestro protagonista empieza cada partida con una mano de cartas y podrá conseguir más a lo largo de la partida. Estas cartas se mostrararán en la parte inferior de la pantalla. Habrá varios tipos de cartas: cartas de ataque, cartas de exploración y cartas de estamina. Las cartas podrán seleccionarse de manera que la carta sobresaldrá de la mano y se iluminará en el escenario el area de efecto de dicha carta. De cada categoría de carta existen distintos tipos dependiendo del area de efecto.
-- Las cartas de ataque muestran un área frente al jugador y una vez se clica la dirección en la que se quiere usar la carta esta se gasta y hará daño a los enemigos que se encuentren en ese área.
-- Las cartas de exploración mostrarán el area de niebla que se despejará frente al jugador. Al usar la carta se gastará y eliminará la niebla del escenario, permitiendo al jugador moverse por la casilla y ver lo que esta contiene,
-- Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta se gasta.
+Nuestro protagonista empieza cada partida con una mano de cartas, y podrá conseguir más a lo largo de la partida. Estas cartas se mostrararán en la parte inferior de la pantalla.
+Habrá varios tipos de cartas: cartas de ataque, cartas de exploración y cartas de estamina. Las cartas podrán seleccionarse de manera que la carta sobresaldrá de la mano y se iluminará en el escenario el área de efecto de dicha carta, informando visualmente al jugador.
+Dentro de cada categoría de las cartas, existen distintos tipos dependiendo del área de efecto.
+- Las cartas de ataque muestran un área frente al jugador, y, una vez se clica la dirección en la que se quiere usar la carta, esta se gasta y hará daño a los enemigos que se encuentren en ese área.
+- Las cartas de exploración mostrarán el área de niebla, que se despejará frente al jugador. Al usar la carta, se gastará y eliminará la niebla del escenario, permitiendo al jugador moverse por la casilla y ver lo que esta contiene.
+- Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta, se gasta inmediatamente.
 
 ### 3.1.4. Recolección de cartas
-Cada casilla puede tener sobre ella una carta. Cuando el jugador desplaza su personaje hasta la propia casilla recoge la carta y esta pasa a formar parte de su mano. 
+Cada casilla puede tener sobre ella una carta. Cuando el jugador desplaza su personaje hasta la propia casilla, recoge la carta, y esta pasa a formar parte de su mano. 
 
 ### 3.1.5. Ataque
-El jugador tiene distintas cartas de ataque que puede usar para hacer daño a los enemigos. Para que el ataque tenga éxito tiene que conseguir que los enemigos se encuentren en las casillas en las que hará efecto el ataque. Esto provoca daño en los enemigos matándolos en caso de que su vida sea menor que el daño ejercido. Cartas de ataque:
+El jugador tiene distintas cartas de ataque que puede usar para hacer daño a los enemigos. Para que el ataque tenga éxito, tiene que conseguir que los enemigos se encuentren en las casillas en las que hará efecto el ataque. Esto provoca daño en los enemigos matándolos, en caso de que su vida sea menor que el daño ejercido.
+Cartas de ataque:
 - Carta de ataque débil: El área de efecto del ataque es de 2x1 en la dirección del jugador. Quita 25 puntos de salud.
-- Carta de ataque fuerte: El área de efecto del ataque es en forma de T, siendo de 2x1 frente al jugador más dos casillas más una a cada lado del final del primer área mencionada. Este ataque quita 50 puntos de salud en el área principal y 25 en los dos extremos.
+- Carta de ataque fuerte: El área de efecto del ataque es en forma de T, siendo de 2x1 frente al jugador, más dos casillas más una a cada lado del final del primer área mencionada. Este ataque quita 50 puntos de salud en el área principal y 25 en los dos extremos.
 
 ### 3.1.6. Carga de exploración
-Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de la exploración máxima. Cuando esta llega al máximo se puede solicitar una nueva carta. Esto fomenta la exploración del jugador por el mapa, recompensandolo por dicha acción.
+Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de la exploración máxima. Cuando esta llega al máximo, se puede solicitar una nueva carta. Esto fomenta la exploración del jugador por el mapa, recompensándolo por dicha acción.
 
 ### 3.1.7. Encontrar piezas y salida
-De igual manera que las cartas, las casillas pueden tener en ellas las piezas de la avioneta que conducía el protagonista. Además, una casilla concreta de todo el tablero será la salida. Al llegar a ella, se consigue avanzar al siguiente nivel siempre y cuando, previamente, se haya conseguido la pieza de la avioneta que haya en el nivel. 
+De igual manera que las cartas, las casillas pueden tener en ellas las piezas de la avioneta que conducía el protagonista.
+Por otro lado, una casilla concreta de todo el tablero será la salida. Al llegar a ella, se consiguirá avanzar al siguiente nivel, siempre y cuando, previamente, se haya conseguido la pieza de la avioneta que haya en el nivel. 
 
 ## 3.2. Flujo de juego
-La experiencia del jugador en una partida normal de *Ace Voyage* no dista demasiado en forma de lo que sería una partida en un videojuego normal, sobre todo en cuanto a lo que tipo de pantallas se refiere.
+La experiencia del jugador en una partida de *Ace Voyage* no difiere significativamente en términos de la forma en que se desarrolla una partida en un videojuego convencional, especialmente en lo que respecta al tipo de pantallas que se encuentran.
 
-Lo primero que se encuentra el jugador es la pantalla con el menú principal. Se le dan las opciones de jugar y de configurar las opciones del juego. Al pulsar en jugar se muestra una pantalla de selección de bioma en la que se deberá elegir el grupo de niveles en el que se quiere avanzar.
+Lo primero que se encuentra el jugador es la pantalla con el menú principal. Se le dan las opciones de jugar y de configurar las opciones del juego. Al pulsar en jugar se muestra una pantalla de selección del bioma, en la que se deberá elegir el grupo de niveles en el que se quiere avanzar.
 
-*Ace Voyage* está estructurado en biomas. Cuando el jugador escoge por primera vez un bioma, se le muestra una corta cinemática en la que se cuenta parte de la historia.
+Como se ha mencionado previamente, *Ace Voyage* se estructura en biomas. Cuando el jugador selecciona un bioma por primera vez, se presenta una breve cinemática que narra una parte de la historia. Esta narración tiene como objetivo proporcionar contexto y enriquecer la inmersión del jugador en la trama del juego.
 
-Cada bioma está conformado por niveles independientes. Para avanzar al siguiente, el jugador debe completar el nivel anterior. Los niveles que completa el jugador son guardados para que continúe el progreso por donde lo dejó cuando vuelva al juego. Al entrar a un nivel, el jugador se encuentra con un terreno dividido en casillas y la interfaz, en la que se muestran las barras de energía y exploración y la mano de cartas actual. También se le indica el objetivo del nivel, el cual siempre es recoger una de las piezas del avión de *Patt*.
+Cada bioma está conformado por niveles independientes. Para avanzar al siguiente, el jugador debe completar el nivel anterior. Los niveles que se completan son guardados para que este continúe el progreso por donde lo dejó cuando vuelva al juego. Además, al entrar a un nivel, el jugador se encuentra con un terreno dividido en casillas y la interfaz, en la que se muestran las barras de energía y exploración y la mano de cartas actual. También se le indica el objetivo del nivel, el cual siempre es recoger una de las piezas del avión de *Patt*.
 
-Por el terreno el jugador debe lidiar con la niebla (que oculta las partes del terreno) y los enemigos que obstaculizan el camino, así como con una posible escasez de cartas y de energía. Para conseguir más cartas el jugador puede recogerlas del suelo (si hay), eliminar enemigos o avanzar por las casillas, esto último significa gastar energía para llenar la barra de exploración, cuando esta se llena se le da una carta nueva.
+Por el terreno, el jugador debe lidiar con la niebla (que oculta partes de la superfice) y los enemigos que obstaculizan el camino, así como con una posible escasez de cartas y de energía. Para conseguir más cartas el jugador puede recogerlas del suelo (si las hay), eliminar enemigos o avanzar por las casillas. Esto último significa gastar energía para llenar la barra de exploración. Cuando esta se llena completamente, se le proporciona una nueva carta.
 
 Si consigue alcanzar la pieza y llegar a la salida sin haber perdido toda la energía, el nivel se completa exitosamente y se presenta una pantalla de victoria, dando la opción de regresar al menú. Cada vez que se completa el último nivel de un bioma, se muestra una cinemática en la que se cuenta un poco más de la historia del protagonista.
 
-Por el contrario, si el jugador pierde toda la energía antes de haber alcanzado la pieza, se muestra una pantalla de derrota, dando la posibilidad de reintentarlo o volver al menú.
+Por el contrario, si el jugador pierde toda la energía antes de haber alcanzado la pieza, se muestra una pantalla de derrota, dando la posibilidad de reintentarlo o volver al menú principal.
 
 El jugador puede iniciar todos los niveles desbloqueados las veces que desee.
 
@@ -252,7 +260,7 @@ A continuación, se muestrán las cuatro pantallas básicas de la interfaz del v
 
 # 5. Modelo de negocio y monetización
 ## 5.1. Modelo de negocio
-Nuestra empresa sigue un modelo de negocio que resulta de la fusión del modelo de eliminación de intermediarios y la venta directa. Esta estrategia implica que nosotros mismos nos acerquemos y trabajemos directamente con nuestros clientes, que en este caso son centros educativos, sin necesidad de recurrir a intermediarios externos. Para desarrollar y definir este modelo de negocio, hemos utilizado varias metodologías que nos han proporcionado una comprensión más profunda y una base sólida:
+Nuestra empresa sigue un modelo de negocio que resulta de la fusión del modelo de eliminación de intermediarios y la venta directa. Esta estrategia implica que nosotros mismos nos acerquemos y trabajemos directamente con y para nuestros clientes, que en este caso son centros educativos, sin necesidad de recurrir a intermediarios externos. Para desarrollar y definir este modelo de negocio, hemos utilizado varias metodologías que nos han proporcionado una comprensión más profunda y una base sólida:
 - Información sobre el Usuario: Hemos llevado a cabo una investigación exhaustiva para comprender a fondo a nuestro cliente, en este caso, los centros, y su entorno.
 
 ![Información sobre el Usuario](/images/informacionSobreElUsuario.png)
