@@ -22,6 +22,10 @@
 5. [Modelo de negocio y monetización](#5-modelo-de-negocio-y-monetización)
    1. [Modelo de negocio](#51-modelo-de-negocio)
    1. [Monetización](#52-monetización)
+6. [Análisis MDA](#6-análisis-mda)
+   1. [Estéticas](#61-estéticas)
+   1. [Dinámicas](#62-dinámicas)
+   1. [Mecánicas](#63-mecánicas)
 
 ***
 ***
@@ -67,6 +71,8 @@
 ## 1.16 Versión 3.4
 - Correcciones menores
 - Mejoras en la redacción
+## 1.17 Versión 4.0
+- Añadido el apartado "6. Análisis MDA"
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -287,3 +293,16 @@ Nuestra empresa sigue un modelo de negocio que resulta de la fusión del modelo 
 
 ## 5.2. Monetización
 En términos de monetización, hemos optado por un modelo de "pay-to-play" que implica una suscripción trimestral. Esta estrategia permite a los centros educativos adquirir nuestro producto anualmente, durante los trimestres en los que lo necesiten, de modo que puedan aprovechar al máximo su inversión y no sientan que están desperdiciando recursos.
+
+# 6. Análisis MDA
+## 6.1. Estéticas
+Se pretende que las estéticas principales que presente *Ace Voyage* sean DESAFÍO, NARRATIVA y DESCUBRIMIENTO. Para ello, se desarrollan, en función de cada una de estas estéticas, varias dinámicas que las fomenten, de manera que el usuario las experimente a la hora de jugarlo.
+
+## 6.2. Dinámicas
+Así, por cada estética, estas dinámicas serían:
+1.	Para DESAFÍO: el juego propone un reto al jugador, siendo este terminar el nivel habiendo gestionado correctamente tanto las cartas que ha obtenido a lo largo de la partida como la energía del protagonista. Todo ello mientras ha de lidiar con diversos obstáculos como huecos entre casillas, diversos objetos, enemigos y la niebla que cubre parte del mapa.
+2.	Para NARRATIVA: *Ace Voyage* presentará una historia emocionante, en la que Patt, piloto de aviones y cartero, intentará entregar una carta. En su viaje sufrirá un accidente que hará que su avión se estrelle en una zona desconocida, llena de enemigos que intentarán quitarle la vida. Patt deberá buscar las piezas de su avión esparcidas a lo largo de los niveles, y así arreglar su avión y poder retomar su misión.
+3.	Para DESCUBRIMIENTO: el jugador irá encontrando nuevos tipos de enemigos conforme avanza a través de los niveles, que poseerán diferentes comportamientos (tanto en los patrones de movimiento como en los de ataques). Por otro lado, también hallará diferentes tipos de cartas, que podrá combinar de diversas maneras para conseguir superar el nivel. Por último, en un momento concreto de la partida, el jugador se encontrará a un compañero, su mascota, que le ayudará en diversas funciones, como atacar enemigos o recoger ítems para llevárselos al jugador.
+
+## 6.3. Mecánicas
+En cuanto a la mecánica, esta gira en torno al juego de cartas como forma de explorar el mapa (descubriéndolo) y combatir enemigos (tanto para atacar como para esquivar o curarse). El jugador dispone de una mano de cartas de diferentes tipos (ataque, quitar niebla, recargar estamina, dash y reparar el avión). Este deberá jugarlas a lo largo del nivel para conseguir superar el mismo, pero a su vez tratando de utilizar el menor número de cartas posibles. Por otro lado, existen dos barras que miden dos aspectos importantes del personaje: la estamina, que se pierde al andar o al recibir daño (al estilo de una barra de salud) y se puede recuperar consumiendo una carta del tipo correspondiente (como se ha mencionado anteriormente); y la de exploración, que se va llenando conforme el personaje se va moviendo, y puede otorgar una carta si el jugador desea, evitando que el jugador se quede sin cartas y por tanto no pueda avanzar en el nivel.
