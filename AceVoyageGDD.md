@@ -73,6 +73,10 @@
 - Mejoras en la redacción
 ## 1.17 Versión 4.0
 - Añadido el apartado "6. Análisis MDA"
+## 1.18 Versión 4.1
+- Añadida la descripción del apartado "3.1.1. Quitar niebla"
+- Añadidos los dos tipos de cartas que faltaban (dash y reparación del avión) en el apartado "3.1.3. Uso de cartas"
+- Correcciones ortográficas y de redacción menores
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -153,18 +157,20 @@ Dependiendo del dispositivo en el que se desea jugar a *Ace Voyage* son necesari
 En este juego, se explora un escenario que cambia con cada bioma y en el los jugadores encontrarán distintos obstáculos, como enemigos y niebla, que reduce la visión del tablero. Para avanzar por el escenario, se deberán usar las cartas con las que los usuarios podrán defenderse de los enemigos y despejar la niebla. Además, cada movimiento cuenta, ya que la estamina se consume con cada paso que se da.
 
 ### 3.1.1. Quitar niebla
-*Explicar objetivo de quitar la niebla (la niebla cubre las casillas y no se puede pasar ni ver que contiene la casilla hasta que se despeja)*
+Como se ha explicado anteriormente, algunas de las casillas del tablero tendrán niebla encima de ellas, lo que impide que el personaje pueda ir a esas casillas o atravesarlas. Por ello, el jugador ha de utilizar las correspondientes cartas de niebla, que le permitirán despejarla y seguir explorando el nivel.
 
 ### 3.1.2. Estamina
 En cada casilla que el jugador mueve al protagonista, se consume un porcentaje de su estamina máxima. Si la estamina se agota por completo, el jugador perderá la partida, por lo que es fundamental administrar cuidadosamente los recursos y movimientos. Es importante destacar que es posible recuperar estamina mediante el uso de cartas.
 
 ### 3.1.3. Uso de cartas
 Nuestro protagonista empieza cada partida con una mano de cartas, y podrá conseguir más a lo largo de la partida. Estas cartas se mostrararán en la parte inferior de la pantalla.
-Habrá varios tipos de cartas: cartas de ataque, cartas de exploración y cartas de estamina. Las cartas podrán seleccionarse de manera que la carta sobresaldrá de la mano y se iluminará en el escenario el área de efecto de dicha carta, informando visualmente al jugador.
-Dentro de cada categoría de las cartas, existen distintos tipos dependiendo del área de efecto.
-- Las cartas de ataque muestran un área frente al jugador, y, una vez se clica la dirección en la que se quiere usar la carta, esta se gasta y hará daño a los enemigos que se encuentren en ese área.
+Habrá varios tipos de cartas: de ataque, de exploración, de estamina, de dash y de reparación del avión. Las cartas podrán seleccionarse de manera que la carta sobresaldrá de la mano y se iluminará en el escenario el área de efecto de dicha carta, informando visualmente al jugador.
+- Las cartas de ataque muestran un área frente al jugador, y, una vez se hace click en la dirección en la que se quiere usar la carta, esta se gasta y hará daño a los enemigos que se encuentren en ese área.
 - Las cartas de exploración mostrarán el área de niebla, que se despejará frente al jugador. Al usar la carta, se gastará y eliminará la niebla del escenario, permitiendo al jugador moverse por la casilla y ver lo que esta contiene.
 - Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta, se gasta inmediatamente.
+- Las cartas de dash permiten al jugador esquivar de manera rápida los ataques de los enemigos.
+- La carta de reparación del avión se utiliza atan solo al final del juego, como conclusión de la historia.
+Dentro de cada categoría de las cartas (excepto dash y reparación del avión), existen distintos tipos dependiendo del área de efecto.
 
 ### 3.1.4. Recolección de cartas
 Cada casilla puede tener sobre ella una carta. Cuando el jugador desplaza su personaje hasta la propia casilla, recoge la carta, y esta pasa a formar parte de su mano. 
@@ -179,8 +185,7 @@ Cartas de ataque:
 Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de la exploración máxima. Cuando esta llega al máximo, se puede solicitar una nueva carta. Esto fomenta la exploración del jugador por el mapa, recompensándolo por dicha acción.
 
 ### 3.1.7. Encontrar piezas y salida
-De igual manera que las cartas, las casillas pueden tener en ellas las piezas de la avioneta que conducía el protagonista.
-Por otro lado, una casilla concreta de todo el tablero será la salida. Al llegar a ella, se consiguirá avanzar al siguiente nivel, siempre y cuando, previamente, se haya conseguido la pieza de la avioneta que haya en el nivel. 
+En cada nivel hay dos casillas únicas, la que posee la pieza y la de salida. Para superar el nivel, el jugador deberá encontrar la pieza correspondiente a ese nivel, y buscar (si no la ha encontrado ya) la casilla de salida para poder pasar al siguiente. Es decir, el jugador no podrá salir por dicha casilla si no ha recogido previamente la pieza mencionada anteriormente.
 
 ## 3.2. Flujo de juego
 La experiencia del jugador en una partida de *Ace Voyage* no difiere significativamente en términos de la forma en que se desarrolla una partida en un videojuego convencional, especialmente en lo que respecta al tipo de pantallas que se encuentran.
@@ -210,7 +215,7 @@ En sus pies, lleva unas botas de goma amarillas a juego con la bufandita que lle
 El toque más llamativo de su atuendo es el gorro de aviador que adorna su cabeza. Este gorro es de cuero marrón con una visera de ante, y unas gafas de aviador apoyadas sobre el mismo. Las lentes de las gafas son redondas y tintadas en un tono azul profundo, dándole un aire misterioso y enigmático.
 
 ### 3.3.2. Murciélago
-Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Precisamente por sus rápidos movimientos no es capaz de cambiar de dirección facilmente por lo que se mueve en línea recta. El daño que puede causar es bajo y no dispone de mucha vida.
+Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Precisamente por sus rápidos movimientos no es capaz de cambiar de dirección fácilmente por lo que se mueve en línea recta. El daño que puede causar es bajo y no dispone de mucha vida.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
 |    Vida    |     25     |
@@ -219,7 +224,7 @@ Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Preci
 |   Ataque   | 3 casillas |
 
 ### 3.3.3. Lobo
-Un enemigo que tiene un gran olfato que le permite perseguir al jugador haya a donde vaya. Es muy rápido aunque debe acercarse mucho para poder atacar. Por suerte para el dispone de bastante vida lo que podría permitirle resistir algún golpe y aunque no siempre se le brinde la oportunidad de atacar cuando la tiene la aprovecha bien causando bastante daño.
+Un enemigo que tiene un gran olfato que le permite perseguir al jugador allá a donde vaya. Es muy rápido, aunque debe acercarse mucho para poder atacar. Por suerte para él, dispone de bastante vida, lo que le podría permitir resistir algún golpe. Aunque no siempre se le brinde la oportunidad de atacar, cuando la tiene, la aprovecha bien, causando bastante daño.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
 |    Vida    |     50     |
@@ -228,7 +233,7 @@ Un enemigo que tiene un gran olfato que le permite perseguir al jugador haya a d
 |   Ataque   | 1  Casilla |
 
 ### 3.3.4. Araña
-Un enemigo que acecha a sus víctimas y espera a que caigan en su trampa. Se mueve muy lentamente para evitar ser detectado mientras prepara sus trampas de telaraña por el camino. Cuando su presa se encuentra a su alcance ataca causando mucho daño a su alrededor y relentizando su marcha, si es que consigue escapar. Además tiene una armadura de telaraña la cual le proporciona una fuerte protección frente a los ataques.
+Un enemigo que acecha a sus víctimas y espera a que caigan en su trampa. Se mueve muy lentamente para evitar ser detectado mientras prepara sus trampas de telaraña por el camino. Cuando su presa se encuentra a su alcance ataca causando mucho daño a su alrededor y ralentizando su marcha, si es que consigue escapar. Además tiene una armadura de telaraña la cual le proporciona una fuerte protección frente a los ataques.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
 |    Vida    |     75     |
