@@ -17,7 +17,8 @@
    1. [Jugabilidad](#31-jugabilidad)
    1. [Flujo de juego](#32-flujo-de-juego)
    1. [Personajes](#33-personajes)
-   1. [Movimiento e interacción](#34-movimiento-e-interacción)
+   1. [Escenarios](#34-escenarios)
+   1. [Movimiento e interacción](#35-movimiento-e-interacción)
 4. [Interfaz](#4-interfaz)
 5. [Modelo de negocio y monetización](#5-modelo-de-negocio-y-monetización)
    1. [Modelo de negocio](#51-modelo-de-negocio)
@@ -77,6 +78,10 @@
 - Añadida la descripción del apartado "3.1.1. Quitar niebla"
 - Añadidos los dos tipos de cartas que faltaban (dash y reparación del avión) en el apartado "3.1.3. Uso de cartas"
 - Correcciones ortográficas y de redacción menores
+## 1.19 Versión 5.0
+- Cambiadas las descripciones y estadísticas de los enemigos
+- Añadidos los concepts de los personajes y escenarios
+- Añadido el apartado "3.1.8. Mascota"
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -91,6 +96,7 @@ Entre las destrezas que se asocian al uso de un PC y el juego pretende desarroll
 -	Abstracción: el reconocimiento de patrones está presente en este apartado. Nuestro juego proporciona situaciones para el desarrollo de esta habilidad, por ejemplo, con las pautas de movimiento de los distintos enemigos. En este caso, el murciélago ataca desplazándose en una única dirección, mientras que el lobo persigue al jugador por el mapa. 
 -	Pensamiento algorítmico: el niño deberá centrar su atención en crear algoritmos, que pueden consistir en jugar algunas cartas en cierto orden, o en derrotar a ciertos enemigos de diferentes formas, dependiendo del tipo de estos. Se puede ejemplificar con la necesidad de usar cartas para despejar la niebla si se pretende desplazarse a una casilla cubierta por la misma.
 -	Evaluación: en este caso, el niño deberá intentar gestionar de la manera más eficiente los distintos recursos y herramientas del videojuego. Quizá es en este aspecto donde mayor desarrollo puede notarse, debido a las distintas mecánicas que potencian esta destreza. El niño deberá gestionar el uso de cartas durante todo el nivel, ya que estas son limitadas, y sus funciones son imprescindibles para completar la pantalla. Además, con las mecánicas de estamina y exploración, el niño debe evaluar la situación y decidir si es asumible, negativo o incluso positivo para su personaje el desplazamiento a según qué casilla. 
+
 Así, el videojuego recogerá datos, como el número de casillas exploradas, el número de cartas empleadas por el niño para completar cada nivel, o las veces en las que el niño pierde la partida de una u otra forma. Esto permitirá, accediendo a estos datos almacenados en una base de datos, que los profesores o responsables de estos niños puedan evaluar su evolución en el aprendizaje computacional. 
 
 
@@ -170,6 +176,7 @@ Habrá varios tipos de cartas: de ataque, de exploración, de estamina, de dash 
 - Las cartas de estamina muestran como área de efecto la casilla del jugador, puesto que esta recupera la estamina del jugador para que pueda moverse de nuevo. Al usarse la carta, se gasta inmediatamente.
 - Las cartas de dash permiten al jugador esquivar de manera rápida los ataques de los enemigos.
 - La carta de reparación del avión se utiliza atan solo al final del juego, como conclusión de la historia.
+
 Dentro de cada categoría de las cartas (excepto dash y reparación del avión), existen distintos tipos dependiendo del área de efecto.
 
 ### 3.1.4. Recolección de cartas
@@ -186,6 +193,9 @@ Por cada casilla que el jugador mueve al protagonista, se carga un porcentaje de
 
 ### 3.1.7. Encontrar piezas y salida
 En cada nivel hay dos casillas únicas, la que posee la pieza y la de salida. Para superar el nivel, el jugador deberá encontrar la pieza correspondiente a ese nivel, y buscar (si no la ha encontrado ya) la casilla de salida para poder pasar al siguiente. Es decir, el jugador no podrá salir por dicha casilla si no ha recogido previamente la pieza mencionada anteriormente.
+
+### 3.1.8. Mascota
+Como se detallará en el apartado de personajes (3.3.) la mascota, Perky, ayudará al jugador por su cuenta a lo largo de los niveles. Podrá atacar enemigos y recoger cartas para traérselas a Patt.
 
 ## 3.2. Flujo de juego
 La experiencia del jugador en una partida de *Ace Voyage* no difiere significativamente en términos de la forma en que se desarrolla una partida en un videojuego convencional, especialmente en lo que respecta al tipo de pantallas que se encuentran.
@@ -206,6 +216,8 @@ El jugador puede iniciar todos los niveles desbloqueados las veces que desee.
 
 ## 3.3. Personajes
 ### 3.3.1. Patt (Protagonista)
+![Patt](/images/Patt.jpg)
+
 Nuestro pequeño pero valiente protagonista es un cartero que hace uso de las cartas para defenderse y explorar el terreno.
 
 Lleva un abrigo largo, confeccionado en un llamativo color azul verdoso que contrasta con su piel pálida y amarronada. La bufanda que rodea su cuello está tejida en lana de punto inglés con un color amarillo anaranjado llamativo que no pasará desapercibido.
@@ -214,40 +226,82 @@ En sus pies, lleva unas botas de goma amarillas a juego con la bufandita que lle
 
 El toque más llamativo de su atuendo es el gorro de aviador que adorna su cabeza. Este gorro es de cuero marrón con una visera de ante, y unas gafas de aviador apoyadas sobre el mismo. Las lentes de las gafas son redondas y tintadas en un tono azul profundo, dándole un aire misterioso y enigmático.
 
-### 3.3.2. Murciélago
-Un enemigo volador que se caracteriza por pequeño tamaño y su velocidad. Precisamente por sus rápidos movimientos no es capaz de cambiar de dirección fácilmente por lo que se mueve en línea recta. El daño que puede causar es bajo y no dispone de mucha vida.
+### 3.3.2. Perky (Mascota)
+![Perky](/images/Mascota.JPG)
+Perky tiene diversos intereses y atenderá solo uno simultáneamente, entre ellos está su instinto protector, si se centra en él irá hacia el enemigo más cercano, entrando en combate con él. La mascota puede también querer mostrar su afecto al protagonista, si esto se junta con una escasez de cartas en el mazo del jugador, Perky comenzará un ciclo en el que primero buscará algún recurso (cartas por el escenario), después irá a recogerlo, momento en el que queda a la espera de que el jugador le dé la señal para llevárselo.
+
+El tiempo que pase Perky moviéndose o combatiendo, así como el recibir ataques, mermará su energía. Si esta decae mucho abandonará la actividad que esté realizando para ir a una casilla concreta a descansar, lo que incluye abandonar combates y búsquedas. Si un enemigo se acerca mientras está durmiendo y ya ha recuperado sufiente energía, la mascota pasará a cubrir otros intereses. Perky ignorará a cualquier enemigo que esté en su ruta siempre y cuando no sea su objetivo de instinto  protector, incluso si llega a darle algún golpe y restarle algo de energía. La característica anterior se repite de igual manera para los objetos que pueda encontrar en su ruta si no está recolectando para el jugador.
+
+### 3.3.3. Murciélago
+![Murciélago](/images/Murciélago.jpg)
+
+El murciélago es un pequeño y veloz enemigo. Su simpleza hace que sea el primer enemigo que el jugador enfrentará, y por ello su dificultad residirá en la aparición de otros 2 murciélagos extra una vez los invoque.
+
+Por la velocidad que le caracteriza, su movimiento consiste en avanzar 3 casillas seguidas por cada acción del jugador. Así, si el jugador se encuentra en una de las tres casillas que se encuentran enfrente, el murciélago atacará.
+
+Por otro lado, tendrá la capacidad de invocar a otros 2 murciélagos tras su muerte, que aparecerán en las casillas que se encuentren a ambos lados de este, para evitar que invoque murciélagos indefinidamente solo el primer murciélago (el murciélago invocador) podrá hacerlo.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
-|    Vida    |     25     |
-|    Daño    |     10     |
+|    Vida    |      1     |
+|    Daño    |     2.5    |
 | Movimiento | 3 Casillas |
 |   Ataque   | 3 casillas |
 
-### 3.3.3. Lobo
-Un enemigo que tiene un gran olfato que le permite perseguir al jugador allá a donde vaya. Es muy rápido, aunque debe acercarse mucho para poder atacar. Por suerte para él, dispone de bastante vida, lo que le podría permitir resistir algún golpe. Aunque no siempre se le brinde la oportunidad de atacar, cuando la tiene, la aprovecha bien, causando bastante daño.
+### 3.3.4. Lobo
+![Lobo](/images/Lobo.jpg)
+
+Se trata de un enemigo que tiene un gran olfato que le permite perseguir al jugador vaya a donde vaya. Es muy rápido, aunque debe acercarse mucho para poder atacar. Por suerte para él, dispone de bastante vida, lo que podría permitirle resistir algún golpe y, aunque no siempre se le brinde la oportunidad de atacar cuando la tiene, la aprovecha bien causando bastante daño.
+
+En cuanto a su movimiento, el lobo se desplaza en casillas de cuatro en cuatro, siempre yendo a las últimas ubicaciones del protagonista. Cada vez que realiza un movimiento, espera un tiempo variable para descansar y volver a tener energía y seguir con su persecución. Si en su tarea de ir tras Patt, llega a estar en su rango de interacción, el lobo atacará al jugador con un potente mordisco. Además, si Patt se encuentra en un estado de baja salud, el lobo olerá la situación y aumentará su ritmo para cazar al protagonista.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
-|    Vida    |     50     |
-|    Daño    |     25     |
+|    Vida    |      2     |
+|    Daño    |      5     |
 | Movimiento | 4 Casillas |
 |   Ataque   | 1  Casilla |
 
-### 3.3.4. Araña
-Un enemigo que acecha a sus víctimas y espera a que caigan en su trampa. Se mueve muy lentamente para evitar ser detectado mientras prepara sus trampas de telaraña por el camino. Cuando su presa se encuentra a su alcance ataca causando mucho daño a su alrededor y ralentizando su marcha, si es que consigue escapar. Además tiene una armadura de telaraña la cual le proporciona una fuerte protección frente a los ataques.
+### 3.3.5. Araña
+![Araña](/images/Araña.JPG)
+
+La araña se desplaza en un patrón impredecible, moviéndose una casilla a la vez a una velocidad notablemente reducida mientras acecha a sus presas. Siempre desea mantener activas dos trampas elaboradas con tela de araña en su territorio. Si alguien cae en una de ellas, verá reducida su velocidad y la telaraña se romperá. Si no se encuentra con ningún objetivo, la reactivará y continuará con su comportamiento habitual, y si encuentra al objetivo, lo atacará.
+
+Por otra parte, está envuelta en una armadura confeccionada con su misma tela de araña, lo que le otorga la capacidad de soportar un golpe adicional. Sin embargo, esta defensa se desintegra al recibir un impacto, momento en el cual la araña priorizará alejarse para reconstruir su armadura. Cuando alguien se encuentra dentro de su radio de alcance, desencadena un ataque de área, focalizando las ocho casillas circundantes con cada una de sus patas.
 |  Cualidad  |  Cantidad  |
 |------------|------------|
-|    Vida    |     75     |
-|    Daño    |     25     |
+|    Vida    |      2     |
+|    Daño    |     2.5    |
 | Movimiento | 1  Casilla |
 |   Ataque   | 8 Casillas |
 
-## 3.4. Movimiento e interacción
-### 3.4.1. Interacción entre elementos
+### 3.3.6. Topo
+![Topo](/images/Topo.JPG)
+
+El topo es un enemigo que no tiene mucha vida y tiene un movimiento bastante limitado. A pesar de estas desventajas, no es un enemigo sencillo de derrotar, ya que tiende a escapar cuando se encuentra en peligro y ataca sin ser detectado fácilmente. Además, puede recuperar salud si está herido y se siente a salvo, o aumentar su capacidad de ataque si se siente amenazado mientras intenta relajarse.
+
+Por tanto, cuando el topo esté en la superficie, comprobará si hay alguna criatura cerca de él. Si no hay nadie, y tiene toda la vida, se moverá por el escenario. Sin embargo, si se cruza con alguna otra criatura, se enterrará para ocultarse. Si esa criatura es el jugador, el topo la atacará, y si no es el jugador, simplemente permanecerá escondido en su lugar. Una vez que no se sienta en peligro porque las criaturas que lo rodeaban se han alejado, saldrá a la superficie, y si ha perdido algo de vida, desenterrará una raíz. Con la raíz en su posesión, volverá a comprobar si hay alguien cerca. En este caso, si detecta al jugador, lo atacará con la raíz causando más daño. Si no hay nadie cerca, se sentirá seguro y consumirá la raíz para regenerar algo de vida.
+|  Cualidad  |  Cantidad  |
+|------------|------------|
+|    Vida    |      2     |
+|    Daño    |1 (con raíz)/5(sin raíz)|
+| Movimiento | 2 Casillas |
+|   Ataque   | 2 Casillas |
+
+## 3.4. Escenarios
+En el videojuego aparecen dos biomas principalmente: pradera y cueva.
+
+### 3.4.1. Pradera
+![Pradera](/images/Pradera.png)
+
+### 3.4.2. Cueva
+![Cueva](/images/Cueva.png)
+
+## 3.5. Movimiento e interacción
+### 3.5.1. Interacción entre elementos
 Los mapas están formados por bloques que se toman como casillas a la hora de realizar cualquier acción en el entorno (desplazamiento, ataques y consumibles).
 Para moverse, el jugador debe pulsar sobre la casilla destino, y si es accesible, el personaje recorrerá una ruta calculada mediante el algoritmo de A estrella hasta allí.
 De la misma manera, los consumibles y ataques muestran su efecto en el entorno en base a las casillas que abarcan.
 
-### 3.4.2. Controles
+### 3.5.2. Controles
 Prácticamente la totalidad del tiempo de juego el jugador estará usando el ratón (si se juega en ordenador), pues todas las acciones principales se realizan con este: marcar una casilla para moverse, arrastrar cartas y abrir menús. Así se consiguen unos controles más unificados entre plataformas (ordenador y dispositivos tablets), facilitando el desarrollo y brindando precisión al jugador en la toma de decisiones.
 
 # 4. Interfaz
