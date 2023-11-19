@@ -66,7 +66,7 @@
 ## 1.13 Versión 3.1
 - Añadida la explicación de flujo de juego
 ## 1.14 Versión 3.2
-- Modificada la expliacación de pensamiento computacional
+- Modificada la explicación de pensamiento computacional
 ## 1.15 Versión 3.3
 - Añadida la interfaz
 ## 1.16 Versión 3.4
@@ -85,6 +85,7 @@
 ## 1.20 Versión 5.1
 - Reescrito el apartado "3.2. Flujo de juego"
 - Añadidas las pantallas de pérdida y victoria
+- Añadido el diagrama de flujo en el apartado "4. Interfaz"
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -308,7 +309,11 @@ De la misma manera, los consumibles y ataques muestran su efecto en el entorno e
 Prácticamente la totalidad del tiempo de juego el jugador estará usando el ratón (si se juega en ordenador), pues todas las acciones principales se realizan con este: marcar una casilla para moverse, arrastrar cartas y abrir menús. Así se consiguen unos controles más unificados entre plataformas (ordenador y dispositivos tablets), facilitando el desarrollo y brindando precisión al jugador en la toma de decisiones.
 
 # 4. Interfaz
-A continuación, se muestrán las cuatro pantallas básicas de la interfaz del videojuego.
+A continuación, se muestrán el diagrama de flujo y las cuatro pantallas básicas de la interfaz del videojuego.
+
+![Diagrama de flujo](/images/DiagramaDeFlujo.jpg)
+
+> *Diagrama de flujo*
 
 ![Pantalla del menú principal](/images/Menú_principal.png)
 
@@ -326,7 +331,7 @@ A continuación, se muestrán las cuatro pantallas básicas de la interfaz del v
 
 > *Pantalla de partida perdida*
 
-![Pantalla de partida perdida](/images/Pantalla_victoria.png)
+![Pantalla de victoria](/images/Pantalla_victoria.png)
 
 > *Pantalla de victoria*
 
