@@ -82,6 +82,9 @@
 - Cambiadas las descripciones y estadísticas de los enemigos
 - Añadidos los concepts de los personajes y escenarios
 - Añadido el apartado "3.1.8. Mascota"
+## 1.20 Versión 5.1
+- Reescrito el apartado "3.2. Flujo de juego"
+- Añadidas las pantallas de pérdida y victoria
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -198,21 +201,21 @@ En cada nivel hay dos casillas únicas, la que posee la pieza y la de salida. Pa
 Como se detallará en el apartado de personajes (3.3.) la mascota, Perky, ayudará al jugador por su cuenta a lo largo de los niveles. Podrá atacar enemigos y recoger cartas para traérselas a Patt.
 
 ## 3.2. Flujo de juego
-La experiencia del jugador en una partida de *Ace Voyage* no difiere significativamente en términos de la forma en que se desarrolla una partida en un videojuego convencional, especialmente en lo que respecta al tipo de pantallas que se encuentran.
+La experiencia del jugador en una partida de *Ace Voyage* no difiere significativamente en cómo se desarrolla en una partida en un videojuego convencional, especialmente en lo que respecta al tipo de pantallas que se encuentran.
 
-Lo primero que se encuentra el jugador es la pantalla con el menú principal. Se le dan las opciones de jugar y de configurar las opciones del juego. Al pulsar en jugar se muestra una pantalla de selección del bioma, en la que se deberá elegir el grupo de niveles en el que se quiere avanzar.
+Lo primero que se encuentra el jugador es la pantalla con el menú principal. Al pulsar en jugar por primera vez, aparecerán 3 opciones: jugar el tutorial, omitir el tutorial y volver al menú.
 
-Como se ha mencionado previamente, *Ace Voyage* se estructura en biomas. Cuando el jugador selecciona un bioma por primera vez, se presenta una breve cinemática que narra una parte de la historia. Esta narración tiene como objetivo proporcionar contexto y enriquecer la inmersión del jugador en la trama del juego.
+Si el jugador decide jugar el tutorial, este será guiado a través de todas las mecánicas del videojuego. Una vez completado, comenzará el nivel 1 (si el jugador omite el tutorial, empezará desde aquí).
 
-Cada bioma está conformado por niveles independientes. Para avanzar al siguiente, el jugador debe completar el nivel anterior. Los niveles que se completan son guardados para que este continúe el progreso por donde lo dejó cuando vuelva al juego. Además, al entrar a un nivel, el jugador se encuentra con un terreno dividido en casillas y la interfaz, en la que se muestran las barras de energía y exploración y la mano de cartas actual. También se le indica el objetivo del nivel, el cual siempre es recoger una de las piezas del avión de *Patt*.
+Para avanzar entre niveles, el jugador debe completar el nivel anterior. Al entrar a un nivel el jugadr tendrá ante él un terreno dividido en casillas con recursos y enemigos varios, y la interfaz, en la que se muestran las barras de energía y exploración (arriba a la izquierda), la mano de cartas actual (abajo), los botones de pausa (abajo a la izquierda) y de giro (abajo a la derecha) y la info de la mascota (arriba a la derecha). En el escenario además habrá un cartel en una casilla concreta, que el jugador podrá leer y que añadirá contrexto a la hisotria de Patt. Al igual que el cartel, cuando Patt recoja la pieza correspondiente a cada nivel, este recordará también parte del contexto que rodea la historia.
+
+En el menú de pausa aparecen las opciones: reanudar, bestiario y salir al menú.
 
 Por el terreno, el jugador debe lidiar con la niebla (que oculta partes de la superfice) y los enemigos que obstaculizan el camino, así como con una posible escasez de cartas y de energía. Para conseguir más cartas el jugador puede recogerlas del suelo (si las hay), eliminar enemigos o avanzar por las casillas. Esto último significa gastar energía para llenar la barra de exploración. Cuando esta se llena completamente, se le proporciona una nueva carta.
 
-Si consigue alcanzar la pieza y llegar a la salida sin haber perdido toda la energía, el nivel se completa exitosamente y se presenta una pantalla de victoria, dando la opción de regresar al menú. Cada vez que se completa el último nivel de un bioma, se muestra una cinemática en la que se cuenta un poco más de la historia del protagonista.
+Si consigue alcanzar la pieza y llegar a la salida sin haber perdido toda la energía, el nivel se completa exitosamente, a diferencia del último nivel, que no se superará hasta que el jugador utilice la carta de reparación del avión sobre este. Además, una vez completado el último nivel, aparecerá una pantalla dando la enhorabuena al jugador por haber completado el juego.
 
 Por el contrario, si el jugador pierde toda la energía antes de haber alcanzado la pieza, se muestra una pantalla de derrota, dando la posibilidad de reintentarlo o volver al menú principal.
-
-El jugador puede iniciar todos los niveles desbloqueados las veces que desee.
 
 ## 3.3. Personajes
 ### 3.3.1. Patt (Protagonista)
@@ -319,9 +322,13 @@ A continuación, se muestrán las cuatro pantallas básicas de la interfaz del v
 
 > *Pantalla de juego*
 
-![Pantalla de partida perdida](/images/Partida_perdida.png)
+![Pantalla de partida perdida](/images/Pantalla_perdida.png)
 
 > *Pantalla de partida perdida*
+
+![Pantalla de partida perdida](/images/Pantalla_victoria.png)
+
+> *Pantalla de victoria*
 
 # 5. Modelo de negocio y monetización
 ## 5.1. Modelo de negocio
