@@ -27,6 +27,10 @@
    1. [Estéticas](#61-estéticas)
    1. [Dinámicas](#62-dinámicas)
    1. [Mecánicas](#63-mecánicas)
+7. [Post-mórtem](#7-post-mórtem)
+   1. [Qué ha ido bien](#71-qué-ha-ido-bien)
+   1. [Qué se puede mejorar](#72-qué-se-puede-mejorar)
+   1. [Desarrollo de ideas](#73-desarrollo-de-ideas)
 
 ***
 ***
@@ -86,6 +90,8 @@
 - Reescrito el apartado "3.2. Flujo de juego"
 - Añadidas las pantallas de pérdida y victoria
 - Añadido el diagrama de flujo en el apartado "4. Interfaz"
+## 1.21 Versión 6.0
+- Añadido el apartado "7. Post-mórtem"
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -377,3 +383,33 @@ Así, por cada estética, estas dinámicas serían:
 
 ## 6.3. Mecánicas
 En cuanto a la mecánica, esta gira en torno al juego de cartas como forma de explorar el mapa (descubriéndolo) y combatir enemigos (tanto para atacar como para esquivar o curarse). El jugador dispone de una mano de cartas de diferentes tipos (ataque, quitar niebla, recargar estamina, dash y reparar el avión). Este deberá jugarlas a lo largo del nivel para conseguir superar el mismo, pero a su vez tratando de utilizar el menor número de cartas posibles. Por otro lado, existen dos barras que miden dos aspectos importantes del personaje: la estamina, que se pierde al andar o al recibir daño (al estilo de una barra de salud) y se puede recuperar consumiendo una carta del tipo correspondiente (como se ha mencionado anteriormente); y la de exploración, que se va llenando conforme el personaje se va moviendo, y puede otorgar una carta si el jugador desea, evitando que el jugador se quede sin cartas y por tanto no pueda avanzar en el nivel.
+
+# 7. Post-mórtem
+A continuación se desarrolla el post-mórtem correspondiente a la versión beta del videojuego. Primero cada mmiembro del equipo mencionarán un par de ideas por cada apartado ("Qué ha ido bien" y "Qué se puede mejorar"), teniendo en cuenta tanto la experiencia personal en el desarrollo del proyecto como el feedback externo obtenido de las pruebas de Beta Testing. Posteriormente se hará una puesta en común de estas ideas, en donde cada miembro desarrollará las que haya propuesto, y se desarrollará un breve texto destacando las que se consideren más importantes en base al consenso de todos los miembros.
+
+## 7.1. Qué ha ido bien
+- Desarrollador 1: Comunicación y relación entre miembros; reparto de tareas y colaboración.
+- Desarrollador 2: Comunicación de ideas entre miembros y reparto de trabajo aprovechando fortalezas.
+- Desarrollador 3: Reparto de trabajo; comunicación en casos de estancamientos de tareas.
+- Desarrollador 4: Sobreposición a problemas y adversidades (gracias a la comunicación y compromiso); reparto de tareas y responsabilidades.
+- Artista 1: Comunicación entre miembros; coordinación y reparto del trabajo.
+- Artista 2: Materialización de la idea; puesta en común del trabajo.
+
+## 7.2. Qué se puede mejorar
+- Desarrollador 1: Adecuación del tamaño del proyecto al tiempo disponible; diseño inicial de las características del videojuego.
+- Desarrollador 2: Continuidad en el trabajo; pruebas de los avances en el desarrollo.
+- Desarrollador 3: Organización para evitar acumulación de tareas; testings en general, destacando los últimos niveles.
+- Desarrollador 4: Desarrollo inicial sólido del GDD (incluyendo planificación y descripción de la estructura del código en TDD o similas; revisión profunda de fallos y búsqueda de soluciones profundas.
+- Artista 1: Pruebas y control de calidad; gestión de crisis y planificación de contingencias.
+- Artista 2: Planificación de las dimensiones del proyecto; pruebas de testing más frecuentes en etapas tempranas.
+
+## 7.3. Desarrollo de ideas
+En el apartado de "Qué ha ido bien", el acertado reparto de tareas al inicio del proyecto ha sido fundamental para el éxito del equipo. La consideración de las fortalezas individuales de cada miembro permitió una asignación equitativa de responsabilidades, dividiéndose eficientemente en dos bloques clave: arte y programación. Este enfoque estratégico no solo optimizó el rendimiento, sino que también demostró sensibilidad ante las necesidades específicas de cada área. La ponderación de la carga de trabajo fue una prioridad, asignando un mayor número de colaboradores al bloque que exigía mayor atención, como fue el caso de la programación con un equipo conformado por cuatro personas, mientras que el bloque de arte contó con dos talentosos integrantes.
+
+La comunicación interna se destacó como otro pilar del éxito, utilizando herramientas como Microsoft Teams para reuniones planificadas y Whatsapp para interacciones menos urgentes. Esta diversificación en canales aseguró una conectividad constante, adaptándose a las demandas tanto en tiempo real como de manera más asincrónica. Además, la apertura a la colaboración y la puesta en común de ideas propiciaron un ambiente creativo y productivo. La materialización de estas ideas resultó en un producto final que no solo cumplió con las expectativas iniciales, sino que también satisfizo las visiones individuales de cada miembro del equipo.
+
+Por otro lado, al abordar "Qué se puede mejorar", se evidenció una oportunidad de crecimiento en el área de testing. La limitada ejecución de esta fase, impulsada principalmente por restricciones temporales, generó dificultades en la detección de fallos, especialmente aquellos que se manifiestan en sesiones de juego prolongadas o en niveles más avanzados. Esta reflexión destaca la importancia de otorgarle a la fase de testing la atención y el tiempo necesario para garantizar la calidad y estabilidad del producto final.
+
+Asimismo, la planificación del proyecto emergió como otro punto crítico a mejorar. A pesar de alcanzar los objetivos fundamentales y lograr un producto jugable y atractivo, la falta de tiempo impidió la inclusión de aspectos esenciales que, en un principio, se consideraban cruciales. Una gestión más efectiva del tiempo habría permitido la integración de estas características, contribuyendo a un resultado aún más completo y satisfactorio.
+
+Finalmente, se identificó la falta de continuidad en el trabajo como un desafío. La distribución desigual de las cargas laborales, concentrándose especialmente en las semanas previas a las fechas de entrega, evidenció la necesidad de un balance más equitativo a lo largo del proceso de desarrollo. Un enfoque más uniforme y sostenible en el tiempo contribuiría a evitar picos de estrés y garantizaría una mayor consistencia en la calidad del trabajo entregado.
