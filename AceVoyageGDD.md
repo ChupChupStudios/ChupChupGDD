@@ -95,6 +95,8 @@
 - Añadido el apartado "7. Post-mórtem"
 ## 1.22 Versión 7.0
 - Añadido el apartado "8. Plan de Marketing"
+## 1.22 Versión 7.1
+- Corrección de formato en el apartado "8. Plan de Marketing"
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -425,17 +427,24 @@ Cabe destacar que este plan está concebido como una guía adaptable destinado a
 ## 8.1. Dónde estamos
 ### 8.1.1. Análisis DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades)
  *- Debilidades (D):*
-    · Recursos Limitados: Ace Voyage se enfrenta a la realidad de recursos financieros y humanos limitados. Este desafío podría influir en el ritmo de desarrollo y la profundidad de ciertos aspectos del juego. La gestión eficiente de estos recursos será clave.
-    · Competencia en el Mercado: Ingresar al mercado de videojuegos, el cual, actualmente, es altamente competitivo, plantea el desafío de destacar entre una gran variedad de títulos similares. La diferenciación efectiva y estrategias de marketing creativas serán esenciales para captar la atención de la audiencia.
+ 
+1. Recursos Limitados: Ace Voyage se enfrenta a la realidad de recursos financieros y humanos limitados. Este desafío podría influir en el ritmo de desarrollo y la profundidad de ciertos aspectos del juego. La gestión eficiente de estos recursos será clave.
+2. Competencia en el Mercado: Ingresar al mercado de videojuegos, el cual, actualmente, es altamente competitivo, plantea el desafío de destacar entre una gran variedad de títulos similares. La diferenciación efectiva y estrategias de marketing creativas serán esenciales para captar la atención de la audiencia.
+
  *- Amenazas (A):*
-    · Rápidos Cambios Tecnológicos: La rápida evolución de la tecnología puede hacer que Ace Voyage quede obsoleto rápidamente si no se mantiene actualizado. La adaptabilidad a los avances tecnológicos será fundamental para mantener la relevancia a lo largo del tiempo.
-    · Expectativas del Público: Las altas expectativas de los jugadores pueden convertirse en una amenaza si no se cumplen. La calidad y coherencia en el juego serán cruciales para evitar la decepción de la audiencia.
+   
+1. Rápidos Cambios Tecnológicos: La rápida evolución de la tecnología puede hacer que Ace Voyage quede obsoleto rápidamente si no se mantiene actualizado. La adaptabilidad a los avances tecnológicos será fundamental para mantener la relevancia a lo largo del tiempo.
+2. Expectativas del Público: Las altas expectativas de los jugadores pueden convertirse en una amenaza si no se cumplen. La calidad y coherencia en el juego serán cruciales para evitar la decepción de la audiencia.
+
  *- Fortalezas (F):*
-    · Concepto Único: La combinación de acción, puzles y elementos educativos en Ace Voyage constituye una fortaleza única. Este enfoque innovador tiene el potencial de atraer a una audiencia diversa, desde jugadores casuales hasta aquellos interesados en la educación.
-    · Enfoque en Pensamiento Computacional: La orientación educativa del juego puede ser una ventaja distintiva. En un mercado donde el desarrollo de habilidades cognitivas es valorado, Ace Voyage puede destacar al proporcionar una experiencia de juego que también estimula el pensamiento computacional.
+ 
+ 1. Concepto Único: La combinación de acción, puzles y elementos educativos en Ace Voyage constituye una fortaleza única. Este enfoque innovador tiene el potencial de atraer a una audiencia diversa, desde jugadores casuales hasta aquellos interesados en la educación.
+2. Enfoque en Pensamiento Computacional: La orientación educativa del juego puede ser una ventaja distintiva. En un mercado donde el desarrollo de habilidades cognitivas es valorado, Ace Voyage puede destacar al proporcionar una experiencia de juego que también estimula el pensamiento computacional.
+
  *- Oportunidades (O):*
-    · Mercado en Crecimiento de Juegos Educativos: Con el creciente interés en los juegos educativos, Ace Voyage tiene la oportunidad de posicionarse como una opción atractiva para padres y educadores. Aprovechar este mercado en expansión podría ser clave para el éxito del juego.
-    · Colaboraciones y Asociaciones: Explorar colaboraciones con instituciones educativas o asociaciones con influencia en el ámbito educativo puede ampliar la visibilidad y aceptación de Ace Voyage, fortaleciendo así la credibilidad del juego y permitiendo llegar a audiencias específicas.
+ 
+1. Mercado en Crecimiento de Juegos Educativos: Con el creciente interés en los juegos educativos, Ace Voyage tiene la oportunidad de posicionarse como una opción atractiva para padres y educadores. Aprovechar este mercado en expansión podría ser clave para el éxito del juego.
+2. Colaboraciones y Asociaciones: Explorar colaboraciones con instituciones educativas o asociaciones con influencia en el ámbito educativo puede ampliar la visibilidad y aceptación de Ace Voyage, fortaleciendo así la credibilidad del juego y permitiendo llegar a audiencias específicas.
 
 ![Análisis DAFO](/images/analisis_DAFO.png)
 
@@ -451,14 +460,16 @@ Ace Voyage tiene un público objetivo muy específico: niños entre 3 y 12 años
  *- Profesores y Escuelas:* Ace Voyage se presenta como una herramienta educativa valiosa para profesores y escuelas que buscan enriquecer el aprendizaje de sus estudiantes a través de la tecnología. Al proporcionar una plataforma que fomenta el pensamiento computacional, el juego se convierte en un recurso didáctico atractivo que complementa los métodos de enseñanza tradicionales. La adaptabilidad del juego a diferentes niveles de habilidad lo convierte en un recurso versátil para la integración en entornos educativos.
 
 ### 8.1.3. Propuesta de valor
-####¿Qué es Ace Voyage?
+*¿Qué es Ace Voyage?*
+
 Ace Voyage no es simplemente un juego, es una puerta de entrada a un medio donde la diversión y el aprendizaje convergen de manera única. Diseñado para niños de 3 a 12 años, Ace Voyage ofrece una experiencia envolvente que va más allá del entretenimiento convencional.
 
-####¿Por qué es especial?
-    1.	Aventuras Educativas: Ace Voyage te sumerge en emocionantes desafíos mientras desarrollas habilidades clave de pensamiento computacional. Cada misión estimula la lógica y la resolución de problemas de manera divertida y accesible.
-    2.	Juego Adaptativo: Desde pequeños exploradores hasta jóvenes genios, Ace Voyage se adapta a todos los niveles de habilidad. Los niños avanzan a su propio ritmo, brindándoles una experiencia personalizada que se ajusta a sus necesidades y desafíos individuales.
-    3.	Participación de los Padres: Ace Voyage no solo involucra a los niños, sino que también incluye a los padres en la experiencia. Con herramientas para el seguimiento del progreso, los padres pueden estar seguros de que sus hijos están aprendiendo de manera significativa mientras se divierten.
-    4.	Colaboración con Escuelas: Ace Voyage se presenta como una herramienta educativa efectiva para aulas digitales. Profesores y escuelas pueden integrar el juego en sus planes de estudio para enriquecer el aprendizaje y fomentar el pensamiento computacional.
+*¿Por qué es especial?*
+
+1. Aventuras Educativas: Ace Voyage te sumerge en emocionantes desafíos mientras desarrollas habilidades clave de pensamiento computacional. Cada misión estimula la lógica y la resolución de problemas de manera divertida y accesible.
+2. Juego Adaptativo: Desde pequeños exploradores hasta jóvenes genios, Ace Voyage se adapta a todos los niveles de habilidad. Los niños avanzan a su propio ritmo, brindándoles una experiencia personalizada que se ajusta a sus necesidades y desafíos individuales.
+3. Participación de los Padres: Ace Voyage no solo involucra a los niños, sino que también incluye a los padres en la experiencia. Con herramientas para el seguimiento del progreso, los padres pueden estar seguros de que sus hijos están aprendiendo de manera significativa mientras se divierten.
+4. Colaboración con Escuelas: Ace Voyage se presenta como una herramienta educativa efectiva para aulas digitales. Profesores y escuelas pueden integrar el juego en sus planes de estudio para enriquecer el aprendizaje y fomentar el pensamiento computacional.
 
 #### 8.1.3.1. Lienzo de Propuesta de valor
 La Propuesta de Valor de Ace Voyage se define a través de un lienzo estratégico que fusiona dos elementos cruciales: el perfil del cliente y el mapa de valor. Este enfoque integral nos permite comprender a nuestros jugadores y destacar cómo creamos valor a través de nuestros productos y servicios.
@@ -496,19 +507,22 @@ El mapa de valor se compone de tres áreas estratégicas:
         2.	Interacción Social: Posibilidad de colaborar y competir con amigos en tiempo real.
         
 3. Encaje: Donde Nuestra Oferta Coincide con sus Necesidades
-        · Desafíos Importantes: Nuestra oferta aborda desafíos educativos cruciales para mantener la relevancia y el interés del jugador.
-        · Alivio de Frustraciones: Adaptamos Ace Voyage para abordar diferentes niveles de habilidad y preferencias de aprendizaje.
-        · Generación de Alegrías: Ace Voyage busca, no solo satisfacer, sino superar las expectativas de nuestros jugadores, ofreciendo reconocimiento social y logros educativos.
+
+    1. Desafíos Importantes: Nuestra oferta aborda desafíos educativos cruciales para mantener la relevancia y el interés del jugador.
+    2. Alivio de Frustraciones: Adaptamos Ace Voyage para abordar diferentes niveles de habilidad y preferencias de aprendizaje.
+    3. Generación de Alegrías: Ace Voyage busca, no solo satisfacer, sino superar las expectativas de nuestros jugadores, ofreciendo reconocimiento social y logros educativos.
 
 ### 8.1.4. Competencia
 Ace Voyage se enfrenta a un mercado educativo y de entretenimiento diverso, entre los que destacan:
-    1.	Aplicaciones Educativas Convencionales: Plataformas ampliamente utilizadas en el ámbito educativo que ofrecen contenido educativo, pero con enfoque menos lúdico y atractivo para los niños.
-    2.	Plataformas de Streaming de Contenido Infantil: Ofrecen una variedad de programas educativos para niños, pero carecen de la interactividad y la personalización presentes en Ace Voyage.
+    1. Aplicaciones Educativas Convencionales: Plataformas ampliamente utilizadas en el ámbito educativo que ofrecen contenido educativo, pero con enfoque menos lúdico y atractivo para los niños.
+    2. Plataformas de Streaming de Contenido Infantil: Ofrecen una variedad de programas educativos para niños, pero carecen de la interactividad y la personalización presentes en Ace Voyage.
     
-Ventajas Competitivas de Ace Voyage:
-    1.	Enfoque Holístico: Integración de educación y entretenimiento de manera equilibrada, adaptada a las habilidades individuales de cada jugador.
-    2.	Gamificación Innovadora: Uso creativo de la gamificación para hacer que el aprendizaje sea divertido y motivador, incentivando la participación continua.
-    3.	Narrativa Inmersiva: Una historia cautivadora que envuelve a los jugadores en un viaje educativo único, fomentando la participación a largo plazo.
-    4.	Personalización Educativa: Módulos de aprendizaje adaptativos que se ajustan al progreso y nivel de habilidad de cada jugador, asegurando un aprendizaje efectivo.
-    5.	Recompensas Significativas: Reconocimiento y recompensas educativas que refuerzan positivamente el progreso y los logros de los jugadores.
+*Ventajas Competitivas de Ace Voyage:*
+
+1. Enfoque Holístico: Integración de educación y entretenimiento de manera equilibrada, adaptada a las habilidades individuales de cada jugador.
+2. Gamificación Innovadora: Uso creativo de la gamificación para hacer que el aprendizaje sea divertido y motivador, incentivando la participación continua.
+3. Narrativa Inmersiva: Una historia cautivadora que envuelve a los jugadores en un viaje educativo único, fomentando la participación a largo plazo.
+4. Personalización Educativa: Módulos de aprendizaje adaptativos que se ajustan al progreso y nivel de habilidad de cada jugador, asegurando un aprendizaje efectivo.
+5. Recompensas Significativas: Reconocimiento y recompensas educativas que refuerzan positivamente el progreso y los logros de los jugadores.
+
 Así, con este análisis se destacan las fortalezas distintivas de Ace Voyage en el mercado educativo y de entretenimiento, proporcionando una propuesta única que se destaca entre la competencia.
