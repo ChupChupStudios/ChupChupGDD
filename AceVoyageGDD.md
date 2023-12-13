@@ -31,7 +31,7 @@
    1. [Qué ha ido bien](#71-qué-ha-ido-bien)
    1. [Qué se puede mejorar](#72-qué-se-puede-mejorar)
    1. [Desarrollo de ideas](#73-desarrollo-de-ideas)
-8. [Plan de Marketing](#8-plan-de_marketing)
+8. [Plan de Marketing](#8-plan-de-marketing)
 
 ***
 ***
@@ -99,6 +99,9 @@
 - Corrección de formato en el apartado "8. Plan de Marketing"
 ## 1.24 Versión 7.2
 - Corrección de errores menores de formato del apartado "8. Plan de Marketing"
+## 1.25 Versión 7.3
+- Añadido el apartado "8.2. Objetivos"
+- Corrección de errores menores de formato.
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -498,8 +501,9 @@ El perfil del cliente se divide en tres áreas fundamentales:
         2.	Esperadas: Desean el desarrollo de habilidades cognitivas a través de experiencias educativas y divertidas.
         3.	Deseadas: Anhelan el reconocimiento por los logros educativos.
         4.	Inesperadas: Disfrutan de la colaboración con amigos durante el juego.
+
         
-3. Mapa de Valor: Creando Experiencias Únicas
+2. Mapa de Valor: Creando Experiencias Únicas
    
 El mapa de valor se compone de tres áreas estratégicas:
    - Productos o Servicios:
@@ -513,8 +517,9 @@ El mapa de valor se compone de tres áreas estratégicas:
    - Creadores de Alegrías:
         1.	Recompensas Educativas: Logros que refuerzan el aprendizaje y reconocen los esfuerzos educativos.
         2.	Interacción Social: Posibilidad de colaborar y competir con amigos en tiempo real.
+
         
-5. Encaje: Donde Nuestra Oferta Coincide con sus Necesidades
+3. Encaje: Donde Nuestra Oferta Coincide con sus Necesidades
 
     1. Desafíos Importantes: Nuestra oferta aborda desafíos educativos cruciales para mantener la relevancia y el interés del jugador.
     2. Alivio de Frustraciones: Adaptamos Ace Voyage para abordar diferentes niveles de habilidad y preferencias de aprendizaje.
@@ -527,10 +532,52 @@ Ace Voyage se enfrenta a un mercado educativo y de entretenimiento diverso, entr
     
 *Ventajas Competitivas de Ace Voyage:*
 
-1. Enfoque Holístico: Integración de educación y entretenimiento de manera equilibrada, adaptada a las habilidades individuales de cada jugador.
-2. Gamificación Innovadora: Uso creativo de la gamificación para hacer que el aprendizaje sea divertido y motivador, incentivando la participación continua.
-3. Narrativa Inmersiva: Una historia cautivadora que envuelve a los jugadores en un viaje educativo único, fomentando la participación a largo plazo.
-4. Personalización Educativa: Módulos de aprendizaje adaptativos que se ajustan al progreso y nivel de habilidad de cada jugador, asegurando un aprendizaje efectivo.
-5. Recompensas Significativas: Reconocimiento y recompensas educativas que refuerzan positivamente el progreso y los logros de los jugadores.
+1. Enfoque holístico: Integración de educación y entretenimiento de manera equilibrada, adaptada a las habilidades individuales de cada jugador.
+2. Gamificación innovadora: Uso creativo de la gamificación para hacer que el aprendizaje sea divertido y motivador, incentivando la participación continua.
+3. Narrativa inmersiva: Una historia cautivadora que envuelve a los jugadores en un viaje educativo único, fomentando la participación a largo plazo.
+4. Personalización educativa: Módulos de aprendizaje adaptativos que se ajustan al progreso y nivel de habilidad de cada jugador, asegurando un aprendizaje efectivo.
+5. Recompensas significativas: Reconocimiento y recompensas educativas que refuerzan positivamente el progreso y los logros de los jugadores.
 
 Así, con este análisis se destacan las fortalezas distintivas de Ace Voyage en el mercado educativo y de entretenimiento, proporcionando una propuesta única que se destaca entre la competencia.
+
+## 8.2. Objetivos
+### 8.2.1. Comunidad:
+Uno de los objetivos de nuestro proyecto es la creación y consolidación de una comunidad comprometida compuesta por jugadores, educadores y padres, todos ellos unidos por la experiencia única ofrecida por Ace Voyage. Para lograr este propósito, debemos destacar diversos aspectos clave que giran en torno a la interacción social, el aprendizaje y la participación activa.
+
+*Estrategias:*
+    1. Establecer canales de comunicación abiertos, como foros en línea y redes sociales (X, Instagram, Youtube, Itch.io), para facilitar la interacción entre la comunidad.
+    2. Organizar eventos y desafíos comunitarios para incentivar la participación y el intercambio de experiencias.
+    3. Colaborar con educadores para ampliar la visibilidad y la participación en la comunidad.
+
+*Métricas de éxito:*
+    1. Crecimiento mensual de usuarios activos en la comunidad.
+    2. Participación en eventos comunitarios y desafíos.
+    3. Nivel de interacción en las redes sociales y foros.
+
+### 8.2.2. Leads:
+Es muy importante para nosotros establecer y expandir una base sólida de leads cualificados que muestren interés en Ace Voyage. Este propósito abarca tanto a los usuarios directos como a educadores y padres, reconociendo la diversidad de nuestra audiencia y buscando crear conexiones significativas con cada segmento. Para lograr este objetivo, implementamos estrategias específicas:
+
+*Estrategias:*
+    1. Implementar campañas de marketing digital que destaquen los aspectos educativos y de entretenimiento del juego.
+    2. Ofrecer demostraciones gratuitas y contenido exclusivo para educadores y padres.
+    3. Establecer programas de afiliados que incentiven a los usuarios a referir a otros.
+
+*Métricas de éxito:*
+    1. Tasa de conversión de visitantes a leads.
+    2. Crecimiento mensual de leads a través de campañas y afiliados.
+    3. Participación en eventos educativos y colaboraciones con instituciones.
+
+### 8.2.2. Ventas (Compra, Backer):
+Nuestra meta es maximizar las ventas de Ace Voyage, empleando una estrategia integral que abarque tanto las compras directas como las campañas de financiamiento colectivo con backers. Para alcanzar este objetivo, hemos desarrollado un plan estratégico que se enfoca en varios aspectos clave:
+
+*Estrategias:*
+    1. Ofrecer promociones y descuentos para la adquisición directa del juego.
+    2. Diseñar campañas de Kickstarter u otras plataformas de crowdfunding para financiar nuevas funciones y expansiones.
+    3. Colaborar con minoristas y plataformas de distribución para ampliar la disponibilidad del juego.
+
+*Métricas de Éxito:*
+    1. Volumen de ventas directas e indirectas.
+    2. Financiamiento exitoso de campañas de crowdfunding.
+    3. Retención de backers a largo plazo y participación en actualizaciones y expansiones.
+    
+Estos objetivos estratégicos hacen que Ace Voyage sea una experiencia educativa y de entretenimiento integral, buscando no solo crecer en términos de usuarios, sino también en términos de participación y compromiso de la comunidad.
