@@ -95,8 +95,10 @@
 - Añadido el apartado "7. Post-mórtem"
 ## 1.22 Versión 7.0
 - Añadido el apartado "8. Plan de Marketing"
-## 1.22 Versión 7.1
+## 1.23 Versión 7.1
 - Corrección de formato en el apartado "8. Plan de Marketing"
+## 1.24 Versión 7.2
+- Corrección de errores menores de formato del apartado "8. Plan de Marketing"
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -478,35 +480,41 @@ La Propuesta de Valor de Ace Voyage se define a través de un lienzo estratégic
 
 > *Lienzo Propuesta de valor*
 
-1. Perfil del Cliente: Descubriendo a Nuestros Jugadores
+1. Perfil del Cliente: Descubriendo a nuestros jugadores
+
 El perfil del cliente se divide en tres áreas fundamentales:
    - Los Trabajos del Cliente:
-        · Funcionales: Nuestros jugadores desempeñan roles de exploradores y solucionadores de desafíos, utilizando el juego como herramienta de aprendizaje.
-        · Sociales: Buscan destacarse entre amigos al convertirse en héroes de la historia educativa que están construyendo.
-        · Emocionales: Experimentan alegría, satisfacción y éxito al enfrentar y superar desafíos educativos.
+        1. Funcionales: Nuestros jugadores desempeñan roles de exploradores y solucionadores de desafíos, utilizando el juego como herramienta de aprendizaje.
+        2. Sociales: Buscan destacarse entre amigos al convertirse en héroes de la historia educativa que están construyendo.
+        3. Emocionales: Experimentan alegría, satisfacción y éxito al enfrentar y superar desafíos educativos.
+    
    - Frustraciones del Cliente:
         1.	Características, Problemas y Resultados no deseados: Evitar el aburrimiento en actividades educativas es crucial para mantener el interés.
         2.	Obstáculos: La falta de desafíos interesantes puede conducir a la desconexión del aprendizaje.
         3.	Riesgos: Existe el riesgo de perder la conexión emocional con el proceso educativo.
+        
    - Alegrías del Cliente:
         1.	Necesarias: Buscan un aprendizaje significativo y divertido.
         2.	Esperadas: Desean el desarrollo de habilidades cognitivas a través de experiencias educativas y divertidas.
         3.	Deseadas: Anhelan el reconocimiento por los logros educativos.
         4.	Inesperadas: Disfrutan de la colaboración con amigos durante el juego.
         
-2. Mapa de Valor: Creando Experiencias Únicas
+3. Mapa de Valor: Creando Experiencias Únicas
+   
 El mapa de valor se compone de tres áreas estratégicas:
    - Productos o Servicios:
-        · Ace Voyage: Un juego educativo inmersivo y emocionante que fusiona aprendizaje y entretenimiento.
-        · Módulos de Aprendizaje Personalizados: Contenidos adaptados a la edad y habilidades de cada jugador.
+        1. Ace Voyage: Un juego educativo inmersivo y emocionante que fusiona aprendizaje y entretenimiento.
+        2. Módulos de Aprendizaje Personalizados: Contenidos adaptados a la edad y habilidades de cada jugador.
+           
    - Aliviadores de Frustraciones:
         1.	Desafíos Educativos: Misiones intrigantes que evitan el aburrimiento y mantienen el interés.
         2.	Progresión Adaptable: Sistema que se adapta a diferentes niveles de habilidad para una superación personal continua.
+           
    - Creadores de Alegrías:
         1.	Recompensas Educativas: Logros que refuerzan el aprendizaje y reconocen los esfuerzos educativos.
         2.	Interacción Social: Posibilidad de colaborar y competir con amigos en tiempo real.
         
-3. Encaje: Donde Nuestra Oferta Coincide con sus Necesidades
+5. Encaje: Donde Nuestra Oferta Coincide con sus Necesidades
 
     1. Desafíos Importantes: Nuestra oferta aborda desafíos educativos cruciales para mantener la relevancia y el interés del jugador.
     2. Alivio de Frustraciones: Adaptamos Ace Voyage para abordar diferentes niveles de habilidad y preferencias de aprendizaje.
@@ -514,8 +522,8 @@ El mapa de valor se compone de tres áreas estratégicas:
 
 ### 8.1.4. Competencia
 Ace Voyage se enfrenta a un mercado educativo y de entretenimiento diverso, entre los que destacan:
-    1. Aplicaciones Educativas Convencionales: Plataformas ampliamente utilizadas en el ámbito educativo que ofrecen contenido educativo, pero con enfoque menos lúdico y atractivo para los niños.
-    2. Plataformas de Streaming de Contenido Infantil: Ofrecen una variedad de programas educativos para niños, pero carecen de la interactividad y la personalización presentes en Ace Voyage.
+1. Aplicaciones Educativas Convencionales: Plataformas ampliamente utilizadas en el ámbito educativo que ofrecen contenido educativo, pero con enfoque menos lúdico y atractivo para los niños.
+2. Plataformas de Streaming de Contenido Infantil: Ofrecen una variedad de programas educativos para niños, pero carecen de la interactividad y la personalización presentes en Ace Voyage.
     
 *Ventajas Competitivas de Ace Voyage:*
 
