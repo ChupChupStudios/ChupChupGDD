@@ -34,7 +34,7 @@
 8. [Plan de Marketing](#8-plan-de-marketing)
     1. [Dónde estamos](#81-dónde-estamos)
     1. [Objetivos](#82-objetivos)
-   
+    1. [Estrategias y tácticas](#83-estrategias-y-tácticas)
 ***
 ***
 # 1.	Historial de versiones
@@ -104,8 +104,11 @@
 ## 1.25 Versión 7.3
 - Añadido el apartado "8.2. Objetivos"
 - Corrección de errores menores de formato.
-- ## 1.26 Versión 7.4
+## 1.26 Versión 7.4
 - Añadidos apartado 8 y subapartados del mismo en el índice.
+- Corrección de errores menores.
+## 1.27 Versión 7.5
+- Añadido apartado "8.3. Estrategias y tácticas".
 - Corrección de errores menores.
 
 # 2.	Introducción
@@ -592,3 +595,20 @@ Nuestra meta es maximizar las ventas de Ace Voyage, empleando una estrategia int
 3. Retención de backers a largo plazo y participación en actualizaciones y expansiones.
     
 Estos objetivos estratégicos hacen que Ace Voyage sea una experiencia educativa y de entretenimiento integral, buscando no solo crecer en términos de usuarios, sino también en términos de participación y compromiso de la comunidad.
+
+## 8.3. Estrategias y tácticas
+En un mundo digitalmente interconectado, la promoción efectiva de un estudio y su proyecto es fundamental para alcanzar el éxito. En este contexto, nos enfocamos en dos objetivos claves: dar a conocer nuestro estudio y dirigir a los usuarios hacia una campaña crucial en Kickstarter. Nuestra estrategia se centra en aprovechar el poder de las redes sociales como un vehículo dinámico para la difusión y participación.
+
+### 8.3.1. Objetivo 1: Dar a Conocer el Estudio
+
+*¿Cómo lo hacemos?*
+
+Para lograr este objetivo, se ha trazado una estrategia integral que comienza con el establecimiento de perfiles en plataformas clave como Instagram, X e Itch.io. Estas plataformas no solo sirven como puntos de contacto directo con la audiencia, sino que también ofrecen un espacio valioso para compartir insights sobre nuestro proceso de desarrollo, avances del juego y detalles detrás de escena. La creación de contenido atractivo, incluyendo imágenes y vídeos impactantes, jugará un papel esencial para captar la atención y generar una conexión significativa con nuestra audiencia.
+
+### 8.3.2. Objetivo 2: Llevar usuarios a la campaña de Kickstarter
+
+*¿Cómo lo hacemos?*
+
+Una vez establecida una presencia sólida en redes sociales, la atención se centra en el segundo objetivo: dirigir a los usuarios hacia nuestra campaña en Kickstarter. Se implementarán campañas publicitarias pagadas en redes sociales, segmentando anuncios para llegar específicamente a nuestro público objetivo, que incluye padres, educadores y jugadores ávidos. El contenido exclusivo creado específicamente para redes sociales generará expectación y curiosidad en torno a la campaña de Kickstarter.
+
+En conjunto, estas estrategias y tácticas están diseñadas para construir una presencia sólida en redes sociales, al tiempo que canalizan de manera efectiva la atención de la audiencia hacia nuestra campaña en Kickstarter. La combinación de contenido relevante y publicidad contriburá en alcanzar estos objetivos de manera efectiva.
