@@ -35,6 +35,7 @@
     1. [Dónde estamos](#81-dónde-estamos)
     1. [Objetivos](#82-objetivos)
     1. [Estrategias y tácticas](#83-estrategias-y-tácticas)
+    1. [Plan](#84-plan)
 ***
 ***
 # 1.	Historial de versiones
@@ -109,6 +110,9 @@
 - Corrección de errores menores.
 ## 1.27 Versión 7.5
 - Añadido apartado "8.3. Estrategias y tácticas".
+- Corrección de errores menores.
+## 1.28 Versión 7.6
+- Añadido apartado "8.4. Plan".
 - Corrección de errores menores.
 
 # 2.	Introducción
@@ -612,3 +616,116 @@ Para lograr este objetivo, se ha trazado una estrategia integral que comienza co
 Una vez establecida una presencia sólida en redes sociales, la atención se centra en el segundo objetivo: dirigir a los usuarios hacia nuestra campaña en Kickstarter. Se implementarán campañas publicitarias pagadas en redes sociales, segmentando anuncios para llegar específicamente a nuestro público objetivo, que incluye padres, educadores y jugadores ávidos. El contenido exclusivo creado específicamente para redes sociales generará expectación y curiosidad en torno a la campaña de Kickstarter.
 
 En conjunto, estas estrategias y tácticas están diseñadas para construir una presencia sólida en redes sociales, al tiempo que canalizan de manera efectiva la atención de la audiencia hacia nuestra campaña en Kickstarter. La combinación de contenido relevante y publicidad contriburá en alcanzar estos objetivos de manera efectiva.
+
+## 8.3. Plan
+ChupChup Studios busca destacar en la educación infantil, específicamente en el desarrollo del pensamiento computacional para niños de 8 a 12 años. Queremos proporcionar una herramienta educativa innovadora y emocionante, garantizando que cada niño tenga acceso a una educación tecnológica de alta calidad, por lo que nos comprometemos a fomentar el pensamiento computacional desde temprana edad, creando así las bases para un futuro digital inclusivo y equitativo.
+El plan que se detalla a continuación está diseñado para cumplir con cada una de nuestras metas durante los dos próximos años, siendo el reflejo de nuestro compromiso con este proyecto.
+
+*Año 1 (2024): Consolidación y Comunidad*
+
+![Calendario 2024](/images/marketing_2024.png)
+
+> *Calendario planificación de marketing 2024*
+
+### 8.3.1. Trimestre 1: Meses 1-3
+
+- Qué:
+  1. Consolidación en Plataformas de Juego: Obtener reseñas y retroalimentación de los primeros usuarios. Ofrecer actualizaciones y mejoras según los comentarios.
+  2. Comunicación Constante: Mantener a la comunidad informada sobre futuras actualizaciones, eventos y contenido adicional.
+  3. Expansión de la Comunidad: Implementar programas de referidos y recompensas para aumentar la base de usuarios.
+  4. Colaboraciones: Explorar colaboraciones con otros estudios indie para promover la comunidad de juegos.
+ 
+- Cómo:
+1. Utilizar encuestas y comentarios directos de los usuarios para identificar áreas de mejora.
+2. Publicar regularmente en redes sociales y enviar boletines informativos.
+3. Lanzar incentivos atractivos para programas de referidos.
+4. Iniciar conversaciones y colaboraciones a través de eventos y plataformas especializadas.
+   
+-Medio: Plataformas de juego, redes sociales, correos electrónicos.
+   
+-Quién: Equipo de desarrollo, gestor de comunidad, especialistas en marketing y relaciones públicas.
+
+-Dónde: Plataformas de juego, redes sociales (Facebook, Twitter, Instagram), eventos de la industria.
+
+-Cuándo: Desde el lanzamiento del juego hasta el tercer mes.
+
+- KPIs:
+1. Número de reseñas y calificaciones positivas.
+2. Tasa de participación en programas de referidos.
+3. Crecimiento mensual de la base de usuarios.
+4. Número de colaboraciones establecidas.
+   
+### 8.3.2. Trimestre 2: Meses 4-6
+
+- Qué:
+1. Eventos y Ferias Virtuales: Participar en eventos de la industria para aumentar la visibilidad.
+2. Contenido Exclusivo: Desarrollar contenido exclusivo para jugadores leales, como desafíos, eventos en el juego y recompensas.
+3. Expansión de Plataformas: Lanzar versiones del juego para nuevas plataformas según la demanda de la audiencia.
+   
+- Cómo:
+1. Diseñar stands virtuales para eventos y participar en charlas y paneles.
+2. Crear contenido adicional atractivo y recompensar a los jugadores activos.
+3. Evaluar la demanda de nuevas plataformas y adaptar el juego en consecuencia.
+   
+-Medio: Plataformas de juego, eventos virtuales, redes sociales.
+
+-Quién: Equipo de desarrollo, gestor de eventos, especialistas en contenido y adaptación.
+
+-Dónde: Eventos de la industria, plataformas de juego existentes, nuevas plataformas.
+
+-Cuándo: Desde el cuarto hasta el sexto mes.
+
+-KPIs:
+1. Participación y visibilidad en eventos virtuales.
+2. Número de jugadores activos participando en eventos exclusivos.
+3. Éxito de la expansión a nuevas plataformas.
+   
+### 8.3.3. Trimestre 3: Meses 7-9
+
+-Qué:
+1. Contenido de Temporada: Introducir actualizaciones de temporada con contenido temático.
+2. Competiciones y Torneos: Organizar competiciones en el juego para mantener el interés y la participación.
+3. Campañas en Redes Sociales: Ejecutar campañas creativas en redes sociales para fomentar la participación de la comunidad.
+   
+-Cómo:
+1. Planificar actualizaciones temáticas y eventos estacionales.
+2. Diseñar competiciones y torneos emocionantes con recompensas significativas.
+3. Desarrollar campañas interactivas en redes sociales para incentivar la participación.
+   
+-Medio: Plataformas de juego, redes sociales, eventos en el juego.
+
+-Quién: Equipo de desarrollo, gestor de redes sociales, organizadores de eventos.
+
+-Dónde: Plataformas de juego, redes sociales.
+
+-Cuándo: Desde el séptimo hasta el noveno mes.
+
+-KPIs:
+1. Participación en eventos de temporada.
+2. Número de jugadores participando en competiciones.
+3. Impacto y participación en campañas de redes sociales.
+
+### 8.3.4. Trimestre 4: Meses 10-12
+
+-Qué:
+1. Aniversario del Juego: Celebrar el primer aniversario con eventos especiales, regalos y contenido exclusivo.
+2. Encuestas de Satisfacción: Obtener comentarios detallados a través de encuestas para mejorar la experiencia del usuario.
+3. Preparación para Año 2: Evaluar el rendimiento del primer año y planificar estrategias para el próximo año.
+
+-Cómo:
+1. Organizar eventos festivos y recompensas especiales para los jugadores.
+2. Enviar encuestas detalladas a la comunidad para obtener comentarios específicos.
+3. Revisar el rendimiento del primer año y establecer metas para el próximo.
+   
+-Medio: Plataformas de juego, encuestas en línea, eventos en el juego.
+
+-Quién: Equipo de desarrollo, gestor de comunidad, analistas de datos.
+
+-Dónde: Plataformas de juego, encuestas en línea.
+
+-Cuándo: Desde el décimo hasta el duodécimo mes.
+
+-KPIs:
+1. Participación y satisfacción en eventos de aniversario.
+2. Respuestas y comentarios recopilados en las encuestas.
+3. Planificación estratégica para el próximo año.
