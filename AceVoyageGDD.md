@@ -32,76 +32,81 @@
    1. [Qué se puede mejorar](#72-qué-se-puede-mejorar)
    1. [Desarrollo de ideas](#73-desarrollo-de-ideas)
 8. [Plan de Marketing](#8-plan-de-marketing)
-
+    1. [Dónde estamos](#81-dónde-estamos)
+    1. [Objetivos](#82-objetivos)
+   
 ***
 ***
 # 1.	Historial de versiones
 ## 1.1 Versión 1.0
 - Primera versión de GDD.
 ## 1.2 Versión 1.1
-- Añadido el apartado "2.2.1 Aprendizaje computacional"
+- Añadido el apartado "2.2.1 Aprendizaje computacional".
 ## 1.3 Versión 2.0
 - Añadidas mecánicas de juego.
-- Explicadas uso de cartas y ataque. Idea general del resto
-- Añadidos personajes y enemigos
+- Explicadas uso de cartas y ataque. Idea general del resto.
+- Añadidos personajes y enemigos.
 ## 1.4 Versión 2.1
-- Agregadas descripciones y conceptos visuales de los personajes
+- Agregadas descripciones y conceptos visuales de los personajes.
 - Correcciones menores
 ## 1.5 Versión 2.2
-- Ampliación de detalles sobre el apartado "2.6. Estilo Visual"
+- Ampliación de detalles sobre el apartado "2.6. Estilo Visual".
 ## 1.6 Versión 2.3
-- Ampliación de mecánicas
+- Ampliación de mecánicas.
 - Correcciones menores
 ## 1.7 Versión 2.4
-- Correcciones menores
+- Correcciones menores.
 ## 1.8 Versión 2.5
-- Desarrollo de la mecánica de movimiento
+- Desarrollo de la mecánica de movimiento.
 ## 1.9 Versión 2.6
 - Añadido un índice
-- Correcciones en movimiento (movido de apartado Mecánicas a Movimiento e interacción)
+- Correcciones en movimiento (movido de apartado Mecánicas a Movimiento e interacción).
 ## 1.10 Versión 2.7
 - Explicación de mecánicas de recogida de cartas, recogida de piezas y salida.
 - Correción menores.
 ## 1.11 Versión 2.8
-- Añadido el apartado de requisitos mínimos
+- Añadido el apartado de requisitos mínimos.
 ## 1.12 Versión 3.0
-- Añadido el apartado "4. Modelo de negocio y monetización"
-- Incluidas imágenes del apartado 4.1
-- Correcciones menores
+- Añadido el apartado "4. Modelo de negocio y monetización".
+- Incluidas imágenes del apartado 4.1.
+- Correcciones menores.
 ## 1.13 Versión 3.1
-- Añadida la explicación de flujo de juego
+- Añadida la explicación de flujo de juego.
 ## 1.14 Versión 3.2
-- Modificada la explicación de pensamiento computacional
+- Modificada la explicación de pensamiento computacional.
 ## 1.15 Versión 3.3
-- Añadida la interfaz
+- Añadida la interfaz.
 ## 1.16 Versión 3.4
-- Correcciones menores
-- Mejoras en la redacción
+- Correcciones menores.
+- Mejoras en la redacción.
 ## 1.17 Versión 4.0
-- Añadido el apartado "6. Análisis MDA"
+- Añadido el apartado "6. Análisis MDA".
 ## 1.18 Versión 4.1
-- Añadida la descripción del apartado "3.1.1. Quitar niebla"
-- Añadidos los dos tipos de cartas que faltaban (dash y reparación del avión) en el apartado "3.1.3. Uso de cartas"
-- Correcciones ortográficas y de redacción menores
+- Añadida la descripción del apartado "3.1.1. Quitar niebla".
+- Añadidos los dos tipos de cartas que faltaban (dash y reparación del avión) en el apartado "3.1.3. Uso de cartas".
+- Correcciones ortográficas y de redacción menores.
 ## 1.19 Versión 5.0
-- Cambiadas las descripciones y estadísticas de los enemigos
-- Añadidos los concepts de los personajes y escenarios
-- Añadido el apartado "3.1.8. Mascota"
+- Cambiadas las descripciones y estadísticas de los enemigos.
+- Añadidos los concepts de los personajes y escenarios.
+- Añadido el apartado "3.1.8. Mascota".
 ## 1.20 Versión 5.1
-- Reescrito el apartado "3.2. Flujo de juego"
-- Añadidas las pantallas de pérdida y victoria
-- Añadido el diagrama de flujo en el apartado "4. Interfaz"
+- Reescrito el apartado "3.2. Flujo de juego".
+- Añadidas las pantallas de pérdida y victoria.
+- Añadido el diagrama de flujo en el apartado "4. Interfaz".
 ## 1.21 Versión 6.0
-- Añadido el apartado "7. Post-mórtem"
+- Añadido el apartado "7. Post-mórtem".
 ## 1.22 Versión 7.0
-- Añadido el apartado "8. Plan de Marketing"
+- Añadido el apartado "8. Plan de Marketing".
 ## 1.23 Versión 7.1
-- Corrección de formato en el apartado "8. Plan de Marketing"
+- Corrección de formato en el apartado "8. Plan de Marketing".
 ## 1.24 Versión 7.2
-- Corrección de errores menores de formato del apartado "8. Plan de Marketing"
+- Corrección de errores menores de formato del apartado "8. Plan de Marketing".
 ## 1.25 Versión 7.3
 - Añadido el apartado "8.2. Objetivos"
 - Corrección de errores menores de formato.
+- ## 1.26 Versión 7.4
+- Añadidos apartado 8 y subapartados del mismo en el índice.
+- Corrección de errores menores.
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -541,43 +546,49 @@ Ace Voyage se enfrenta a un mercado educativo y de entretenimiento diverso, entr
 Así, con este análisis se destacan las fortalezas distintivas de Ace Voyage en el mercado educativo y de entretenimiento, proporcionando una propuesta única que se destaca entre la competencia.
 
 ## 8.2. Objetivos
-### 8.2.1. Comunidad:
+### 8.2.1. Comunidad
 Uno de los objetivos de nuestro proyecto es la creación y consolidación de una comunidad comprometida compuesta por jugadores, educadores y padres, todos ellos unidos por la experiencia única ofrecida por Ace Voyage. Para lograr este propósito, debemos destacar diversos aspectos clave que giran en torno a la interacción social, el aprendizaje y la participación activa.
 
 *Estrategias:*
-    1. Establecer canales de comunicación abiertos, como foros en línea y redes sociales (X, Instagram, Youtube, Itch.io), para facilitar la interacción entre la comunidad.
-    2. Organizar eventos y desafíos comunitarios para incentivar la participación y el intercambio de experiencias.
-    3. Colaborar con educadores para ampliar la visibilidad y la participación en la comunidad.
+
+1. Establecer canales de comunicación abiertos, como foros en línea y redes sociales (X, Instagram, Youtube, Itch.io), para facilitar la interacción entre la comunidad.
+2. Organizar eventos y desafíos comunitarios para incentivar la participación y el intercambio de experiencias.
+3. Colaborar con educadores para ampliar la visibilidad y la participación en la comunidad.
 
 *Métricas de éxito:*
-    1. Crecimiento mensual de usuarios activos en la comunidad.
-    2. Participación en eventos comunitarios y desafíos.
-    3. Nivel de interacción en las redes sociales y foros.
 
-### 8.2.2. Leads:
+1. Crecimiento mensual de usuarios activos en la comunidad.
+2. Participación en eventos comunitarios y desafíos.
+3. Nivel de interacción en las redes sociales y foros.
+
+### 8.2.2. Leads
 Es muy importante para nosotros establecer y expandir una base sólida de leads cualificados que muestren interés en Ace Voyage. Este propósito abarca tanto a los usuarios directos como a educadores y padres, reconociendo la diversidad de nuestra audiencia y buscando crear conexiones significativas con cada segmento. Para lograr este objetivo, implementamos estrategias específicas:
 
 *Estrategias:*
-    1. Implementar campañas de marketing digital que destaquen los aspectos educativos y de entretenimiento del juego.
-    2. Ofrecer demostraciones gratuitas y contenido exclusivo para educadores y padres.
-    3. Establecer programas de afiliados que incentiven a los usuarios a referir a otros.
+
+1. Implementar campañas de marketing digital que destaquen los aspectos educativos y de entretenimiento del juego.
+2. Ofrecer demostraciones gratuitas y contenido exclusivo para educadores y padres.
+3. Establecer programas de afiliados que incentiven a los usuarios a referir a otros.
 
 *Métricas de éxito:*
-    1. Tasa de conversión de visitantes a leads.
-    2. Crecimiento mensual de leads a través de campañas y afiliados.
-    3. Participación en eventos educativos y colaboraciones con instituciones.
 
-### 8.2.2. Ventas (Compra, Backer):
+1. Tasa de conversión de visitantes a leads.
+2. Crecimiento mensual de leads a través de campañas y afiliados.
+3. Participación en eventos educativos y colaboraciones con instituciones.
+
+### 8.2.2. Ventas (Compra, Backer)
 Nuestra meta es maximizar las ventas de Ace Voyage, empleando una estrategia integral que abarque tanto las compras directas como las campañas de financiamiento colectivo con backers. Para alcanzar este objetivo, hemos desarrollado un plan estratégico que se enfoca en varios aspectos clave:
 
 *Estrategias:*
-    1. Ofrecer promociones y descuentos para la adquisición directa del juego.
-    2. Diseñar campañas de Kickstarter u otras plataformas de crowdfunding para financiar nuevas funciones y expansiones.
-    3. Colaborar con minoristas y plataformas de distribución para ampliar la disponibilidad del juego.
+
+1. Ofrecer promociones y descuentos para la adquisición directa del juego.
+2. Diseñar campañas de Kickstarter u otras plataformas de crowdfunding para financiar nuevas funciones y expansiones.
+3. Colaborar con minoristas y plataformas de distribución para ampliar la disponibilidad del juego.
 
 *Métricas de Éxito:*
-    1. Volumen de ventas directas e indirectas.
-    2. Financiamiento exitoso de campañas de crowdfunding.
-    3. Retención de backers a largo plazo y participación en actualizaciones y expansiones.
+
+1. Volumen de ventas directas e indirectas.
+2. Financiamiento exitoso de campañas de crowdfunding.
+3. Retención de backers a largo plazo y participación en actualizaciones y expansiones.
     
 Estos objetivos estratégicos hacen que Ace Voyage sea una experiencia educativa y de entretenimiento integral, buscando no solo crecer en términos de usuarios, sino también en términos de participación y compromiso de la comunidad.
