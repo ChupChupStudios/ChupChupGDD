@@ -114,8 +114,10 @@
 ## 1.28 Versión 7.6
 - Añadido apartado "8.4. Plan".
 - Corrección de errores menores.
-## 1.28 Versión 7.6
+## 1.29 Versión 7.7
 - Corrección de errores de formato y referencias.
+- ## 1.30 Versión 7.8
+- Corrección de errores menores.
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -632,10 +634,10 @@ El plan que se detalla a continuación está diseñado para cumplir con cada una
 #### 8.4.1.1. Trimestre 1: Meses 1-3
 
 - Qué:
-  1. Consolidación en Plataformas de Juego: Obtener reseñas y retroalimentación de los primeros usuarios. Ofrecer actualizaciones y mejoras según los comentarios.
-  2. Comunicación Constante: Mantener a la comunidad informada sobre futuras actualizaciones, eventos y contenido adicional.
-  3. Expansión de la Comunidad: Implementar programas de referidos y recompensas para aumentar la base de usuarios.
-  4. Colaboraciones: Explorar colaboraciones con otros estudios indie para promover la comunidad de juegos.
+1. Consolidación en Plataformas de Juego: Obtener reseñas y retroalimentación de los primeros usuarios. Ofrecer actualizaciones y mejoras según los comentarios.
+2. Comunicación Constante: Mantener a la comunidad informada sobre futuras actualizaciones, eventos y contenido adicional.
+3. Expansión de la Comunidad: Implementar programas de referidos y recompensas para aumentar la base de usuarios.
+4. Colaboraciones: Explorar colaboraciones con otros estudios indie para promover la comunidad de juegos.
  
 - Cómo:
 1. Utilizar encuestas y comentarios directos de los usuarios para identificar áreas de mejora.
@@ -643,13 +645,17 @@ El plan que se detalla a continuación está diseñado para cumplir con cada una
 3. Lanzar incentivos atractivos para programas de referidos.
 4. Iniciar conversaciones y colaboraciones a través de eventos y plataformas especializadas.
    
--Medio: Plataformas de juego, redes sociales, correos electrónicos.
+- Medio:
+Plataformas de juego, redes sociales, correos electrónicos.
    
--Quién: Equipo de desarrollo, gestor de comunidad, especialistas en marketing y relaciones públicas.
+- Quién:
+Equipo de desarrollo, gestor de comunidad, especialistas en marketing y relaciones públicas.
 
--Dónde: Plataformas de juego, redes sociales (Facebook, Twitter, Instagram), eventos de la industria.
+- Dónde:
+Plataformas de juego, redes sociales (Facebook, Twitter, Instagram), eventos de la industria.
 
--Cuándo: Desde el lanzamiento del juego hasta el tercer mes.
+- Cuándo:
+Desde el lanzamiento del juego hasta el tercer mes.
 
 - KPIs:
 1. Número de reseñas y calificaciones positivas.
@@ -669,65 +675,77 @@ El plan que se detalla a continuación está diseñado para cumplir con cada una
 2. Crear contenido adicional atractivo y recompensar a los jugadores activos.
 3. Evaluar la demanda de nuevas plataformas y adaptar el juego en consecuencia.
    
--Medio: Plataformas de juego, eventos virtuales, redes sociales.
+- Medio:
+Plataformas de juego, eventos virtuales, redes sociales.
 
--Quién: Equipo de desarrollo, gestor de eventos, especialistas en contenido y adaptación.
+- Quién:
+Equipo de desarrollo, gestor de eventos, especialistas en contenido y adaptación.
 
--Dónde: Eventos de la industria, plataformas de juego existentes, nuevas plataformas.
+- Dónde:
+Eventos de la industria, plataformas de juego existentes, nuevas plataformas.
 
--Cuándo: Desde el cuarto hasta el sexto mes.
+- Cuándo:
+Desde el cuarto hasta el sexto mes.
 
--KPIs:
+- KPIs:
 1. Participación y visibilidad en eventos virtuales.
 2. Número de jugadores activos participando en eventos exclusivos.
 3. Éxito de la expansión a nuevas plataformas.
    
 #### 8.4.1.3. Trimestre 3: Meses 7-9
 
--Qué:
+- Qué:
 1. Contenido de Temporada: Introducir actualizaciones de temporada con contenido temático.
 2. Competiciones y Torneos: Organizar competiciones en el juego para mantener el interés y la participación.
 3. Campañas en Redes Sociales: Ejecutar campañas creativas en redes sociales para fomentar la participación de la comunidad.
    
--Cómo:
+- Cómo:
 1. Planificar actualizaciones temáticas y eventos estacionales.
 2. Diseñar competiciones y torneos emocionantes con recompensas significativas.
 3. Desarrollar campañas interactivas en redes sociales para incentivar la participación.
    
--Medio: Plataformas de juego, redes sociales, eventos en el juego.
+- Medio:
+Plataformas de juego, redes sociales, eventos en el juego.
 
--Quién: Equipo de desarrollo, gestor de redes sociales, organizadores de eventos.
+- Quién:
+Equipo de desarrollo, gestor de redes sociales, organizadores de eventos.
 
--Dónde: Plataformas de juego, redes sociales.
+- Dónde:
+Plataformas de juego, redes sociales.
 
--Cuándo: Desde el séptimo hasta el noveno mes.
+- Cuándo:
+Desde el séptimo hasta el noveno mes.
 
--KPIs:
+- KPIs:
 1. Participación en eventos de temporada.
 2. Número de jugadores participando en competiciones.
 3. Impacto y participación en campañas de redes sociales.
 
 #### 8.4.1.4. Trimestre 4: Meses 10-12
 
--Qué:
+- Qué:
 1. Aniversario del Juego: Celebrar el primer aniversario con eventos especiales, regalos y contenido exclusivo.
 2. Encuestas de Satisfacción: Obtener comentarios detallados a través de encuestas para mejorar la experiencia del usuario.
 3. Preparación para Año 2: Evaluar el rendimiento del primer año y planificar estrategias para el próximo año.
 
--Cómo:
+- Cómo:
 1. Organizar eventos festivos y recompensas especiales para los jugadores.
 2. Enviar encuestas detalladas a la comunidad para obtener comentarios específicos.
 3. Revisar el rendimiento del primer año y establecer metas para el próximo.
    
--Medio: Plataformas de juego, encuestas en línea, eventos en el juego.
+- Medio:
+Plataformas de juego, encuestas en línea, eventos en el juego.
 
--Quién: Equipo de desarrollo, gestor de comunidad, analistas de datos.
+- Quién:
+Equipo de desarrollo, gestor de comunidad, analistas de datos.
 
--Dónde: Plataformas de juego, encuestas en línea.
+- Dónde:
+Plataformas de juego, encuestas en línea.
 
--Cuándo: Desde el décimo hasta el duodécimo mes.
+- Cuándo:
+Desde el décimo hasta el duodécimo mes.
 
--KPIs:
+- KPIs:
 1. Participación y satisfacción en eventos de aniversario.
 2. Respuestas y comentarios recopilados en las encuestas.
 3. Planificación estratégica para el próximo año.
