@@ -114,6 +114,8 @@
 ## 1.28 Versión 7.6
 - Añadido apartado "8.4. Plan".
 - Corrección de errores menores.
+## 1.28 Versión 7.6
+- Corrección de errores de formato y referencias.
 
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -617,17 +619,17 @@ Una vez establecida una presencia sólida en redes sociales, la atención se cen
 
 En conjunto, estas estrategias y tácticas están diseñadas para construir una presencia sólida en redes sociales, al tiempo que canalizan de manera efectiva la atención de la audiencia hacia nuestra campaña en Kickstarter. La combinación de contenido relevante y publicidad contriburá en alcanzar estos objetivos de manera efectiva.
 
-## 8.3. Plan
+## 8.4. Plan
 ChupChup Studios busca destacar en la educación infantil, específicamente en el desarrollo del pensamiento computacional para niños de 8 a 12 años. Queremos proporcionar una herramienta educativa innovadora y emocionante, garantizando que cada niño tenga acceso a una educación tecnológica de alta calidad, por lo que nos comprometemos a fomentar el pensamiento computacional desde temprana edad, creando así las bases para un futuro digital inclusivo y equitativo.
 El plan que se detalla a continuación está diseñado para cumplir con cada una de nuestras metas durante los dos próximos años, siendo el reflejo de nuestro compromiso con este proyecto.
 
-*Año 1 (2024): Consolidación y Comunidad*
+### 8.4.1. Año 1 (2024): Consolidación y Comunidad
 
 ![Calendario 2024](/images/marketing_2024.png)
 
 > *Calendario planificación de marketing 2024*
 
-### 8.3.1. Trimestre 1: Meses 1-3
+#### 8.4.1.1. Trimestre 1: Meses 1-3
 
 - Qué:
   1. Consolidación en Plataformas de Juego: Obtener reseñas y retroalimentación de los primeros usuarios. Ofrecer actualizaciones y mejoras según los comentarios.
@@ -655,7 +657,7 @@ El plan que se detalla a continuación está diseñado para cumplir con cada una
 3. Crecimiento mensual de la base de usuarios.
 4. Número de colaboraciones establecidas.
    
-### 8.3.2. Trimestre 2: Meses 4-6
+#### 8.4.1.2. Trimestre 2: Meses 4-6
 
 - Qué:
 1. Eventos y Ferias Virtuales: Participar en eventos de la industria para aumentar la visibilidad.
@@ -680,7 +682,7 @@ El plan que se detalla a continuación está diseñado para cumplir con cada una
 2. Número de jugadores activos participando en eventos exclusivos.
 3. Éxito de la expansión a nuevas plataformas.
    
-### 8.3.3. Trimestre 3: Meses 7-9
+#### 8.4.1.3. Trimestre 3: Meses 7-9
 
 -Qué:
 1. Contenido de Temporada: Introducir actualizaciones de temporada con contenido temático.
@@ -705,7 +707,7 @@ El plan que se detalla a continuación está diseñado para cumplir con cada una
 2. Número de jugadores participando en competiciones.
 3. Impacto y participación en campañas de redes sociales.
 
-### 8.3.4. Trimestre 4: Meses 10-12
+#### 8.4.1.4. Trimestre 4: Meses 10-12
 
 -Qué:
 1. Aniversario del Juego: Celebrar el primer aniversario con eventos especiales, regalos y contenido exclusivo.
