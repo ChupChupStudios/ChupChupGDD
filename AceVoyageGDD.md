@@ -116,9 +116,13 @@
 - Corrección de errores menores.
 ## 1.29 Versión 7.7
 - Corrección de errores de formato y referencias.
-- ## 1.30 Versión 7.8
+## 1.30 Versión 7.8
+- Corrección de errores menores.
+## 1.31 Versión 7.9
+- Ampliación del contenido del apartado "8.4. Plan".
 - Corrección de errores menores.
 
+  
 # 2.	Introducción
 ## 2.1. Concepto del juego
 *Ace Voyage* es un videojuego narrativo que basa su mecánica principal en el uso de cartas y exploración. Cuenta la historia de Patt, un aviador que en una de sus misiones sufre un accidente con su avioneta y trata de volver a su ciudad. Para ello, deberá encontrar las piezas de recambio para poder arreglar su avioneta, investigando en diversos biomas y enfrentándose a una gran variedad de enemigos.
@@ -749,3 +753,126 @@ Desde el décimo hasta el duodécimo mes.
 1. Participación y satisfacción en eventos de aniversario.
 2. Respuestas y comentarios recopilados en las encuestas.
 3. Planificación estratégica para el próximo año.
+
+### 8.4.2. Año 2 (2025): Expansión y Monetización
+
+![Calendario 2025](/images/marketing_2025.png)
+
+> *Calendario planificación de marketing 2025*
+
+#### 8.4.2.1. Trimestre 1: Meses 13-15
+
+**1. Expansión Global:**
+- Qué: Localizar el juego para llegar a audiencias internacionales.
+- Cómo: Identificar mercados clave, traducir contenido y adaptar estrategias de marketing.
+- Medio: Plataformas de distribución internacional, servicios de traducción, estrategias de marketing global.
+- Quién: Equipo de localización, marketing internacional y desarrollo.
+- Dónde: Mercados internacionales identificados.
+- Cuándo: Durante el trimestre 1.
+- KPIs: Número de descargas en nuevos mercados, aumento en la base de usuarios global.
+
+**2. Incorporación de Elementos In-App:**
+- Qué: Introducir elementos cosméticos y funciones premium para la monetización.
+- Cómo: Diseñar elementos atractivos, actualizar la aplicación con nuevas funciones y opciones de compra.
+- Medio: Actualizaciones en la aplicación, tienda in-app.
+- Quién: Equipo de desarrollo y diseño.
+- Dónde: Dentro de la aplicación.
+- Cuándo: Durante el trimestre 1.
+- KPIs: Ingresos generados a través de elementos in-app, tasa de conversión.
+
+**3. Campañas de Publicidad Pagada:**
+- Qué: Aumentar la visibilidad mediante campañas pagadas en diversas plataformas.
+- Cómo: Diseñar anuncios creativos, segmentar audiencias, lanzar campañas publicitarias.
+- Medio: Publicidad en redes sociales.
+- Quién: Equipo de marketing digital.
+- Dónde: Plataformas publicitarias clave.
+- Cuándo: Durante el trimestre 1.
+- KPIs: Aumento en la notoriedad de la marca, clics y conversiones publicitarias.
+
+
+#### 8.4.2.2. Trimestre 2: Meses 16-18
+
+**1. Colaboraciones Estratégicas:**
+- Qué: Colaborar con otros juegos para expandir la visibilidad.
+- Cómo: Establecer acuerdos de colaboración, participar en eventos conjuntos.
+- Medio: Acuerdos de colaboración, participación en eventos de la industria.
+- Quién: Equipo de relaciones públicas y marketing.
+- Dónde: Plataformas colaborativas y eventos de la industria.
+- Cuándo: Durante el trimestre 2.
+- KPIs: Alcance de colaboraciones, aumento de la base de usuarios.
+
+**2. Eventos Especiales Mensuales:**
+- Qué: Implementar eventos mensuales en el juego para retener y atraer a nuevos jugadores.
+- Cómo: Crear contenido especial, ofrecer recompensas y promociones.
+- Medio: Actualizaciones regulares del juego, promociones especiales.
+- Quién: Equipo de eventos y desarrollo.
+- Dónde: Dentro de la aplicación.
+- Cuándo: Durante el trimestre 2.
+- KPIs: Participación en eventos mensuales, retención de jugadores.
+
+**3. Programas de Fidelidad:**
+- Qué: Establecer programas de fidelidad para recompensar a los jugadores activos.
+- Cómo: Crear sistemas de recompensas, lanzar programas de lealtad.
+- Medio: Programas integrados en la aplicación, recompensas exclusivas.
+- Quién: Equipo de desarrollo y relaciones con el cliente.
+- Dónde: Dentro de la aplicación.
+- Cuándo: Durante el trimestre 2.
+- KPIs: Participación en programas de fidelidad, retención de usuarios leales.
+  
+#### 8.4.2.3. Trimestre 3: Meses 19-21
+
+**1. Actualizaciones Importantes:**
+- Qué: Lanzar actualizaciones significativas con nuevas funciones y contenido.
+- Cómo: Evaluar comentarios de usuarios, desarrollar nuevas funciones, lanzar actualizaciones.
+- Medio: Actualizaciones en la aplicación, comunicados de prensa.
+- Quién: Equipo de desarrollo y marketing.
+- Dónde: Plataformas de distribución, redes sociales.
+- Cuándo: Durante el trimestre 3.
+- KPIs: Evaluación de comentarios de los usuarios, aumento en la retención.
+
+**2. Campañas de Retención:**
+- Qué: Implementar estrategias para retener a los jugadores existentes y mantener su interés.
+- Cómo: Crear contenido exclusivo, ofrecer recompensas.
+- Medio: Mensajes en la aplicación, contenido exclusivo.
+- Quién: Equipo de desarrollo.
+- Dónde: Dentro de la aplicación.
+- Cuándo: Durante el trimestre 3.
+- KPIs: Retención mensual de usuarios, participación en contenido exclusivo.
+
+**3. Monetización Justa:**
+- Qué: Ajustar estrategias de monetización según los comentarios de la comunidad.
+- Cómo: Realizar encuestas de retroalimentación, ajustar configuraciones de compra.
+- Medio: Encuestas de retroalimentación, ajustes en la aplicación.
+- Quién: Equipo de monetización y desarrollo.
+- Dónde: Dentro de la aplicación.
+- Cuándo: Durante el trimestre 3.
+- KPIs: Mejoras en la satisfacción del usuario, aumento en los ingresos.
+
+#### 8.4.2.4. Trimestre 4: Meses 22-24
+
+**1. Celebración del Segundo Aniversario:**
+- Qué: Organizar eventos especiales y recompensas para celebrar el segundo año.
+- Cómo: Planificar eventos festivos, regalos atractivos y contenido exclusivo.
+- Medio: Plataformas de juego, eventos en el juego.
+- Quién: Equipo de eventos y desarrollo.
+- Dónde: Dentro de la aplicación.
+- Cuándo: Durante el trimestre 4.
+- KPIs: Participación y satisfacción en eventos de aniversario.
+
+**2. Encuesta de Satisfacción 2.0:**
+- Qué: Obtener comentarios adicionales y ajustar estrategias para el próximo año, si es preciso.
+- Cómo: Enviar encuestas detalladas, analizar respuestas y realizar ajustes.
+- Medio: Encuestas en línea, análisis de datos.
+- Quién: Equipo de desarrollo y análisis.
+- Dónde: Fuera de la aplicación (encuestas en línea).
+- Cuándo: Durante el trimestre 4.
+- KPIs: Respuestas y comentarios recopilados en las encuestas.
+
+**3. Planificación a Largo Plazo:**
+- Qué: Iniciar la planificación para el tercer año, considerando nuevas funciones, expansiones y mejoras, si es preciso.
+- Cómo: Evaluar el rendimiento del segundo año, identificar áreas de crecimiento, iniciar la planificación estratégica.
+- Medio: Revisión de datos, reuniones estratégicas.
+- Quién: Equipo de liderazgo y desarrollo.
+- Dónde: Oficinas de la empresa.
+- Cuándo: Durante el trimestre 4.
+- KPIs: Plan estratégico para el tercer año establecido.
