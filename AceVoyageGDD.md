@@ -121,7 +121,8 @@
 ## 1.31 Versión 7.9
 - Ampliación del contenido del apartado "8.4. Plan".
 - Corrección de errores menores.
-
+## 1.32 Versión 7.10
+- Ampliación del contenido del apartado "8.4. Plan".
   
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -876,3 +877,82 @@ Desde el décimo hasta el duodécimo mes.
 - Dónde: Oficinas de la empresa.
 - Cuándo: Durante el trimestre 4.
 - KPIs: Plan estratégico para el tercer año establecido.
+
+### 8.4.3. Planificación semana del lanzamiento
+A continuación, se detalla la planificación de publicidad y marketing para la semana post-lanzamiento de Ace Voyage, detallando el plan de publicaciones en las redes sociales de Instagram y X del estudio.
+
+![Planificación semana (post)Lanzamiento](/images/semanaClave_marketing.png)
+
+> *Calendario planificación de marketing semana del 11 al 17*
+
+**Día 1: Anuncio del lanzamiento del juego**
+
+*Instagram:*
+1.	Publicar una imagen teaser del juego con el logo y el protagonista Patt.
+2.	Acompañar la imagen con una descripción intrigante sobre la historia y la mecánica del juego.
+3.	Utiliza hashtags populares relacionados con juegos, puzles y educación.
+
+*X:*
+1.	Twittear el mismo teaser con un breve texto descriptivo.
+2.	Incluir hashtags relevantes.
+   
+**Día 2: Arte escenarios y Detrás de Escena**
+
+*Instagram:*
+1.	Compartir fotos de los escenarios del juego.
+2.	Animar a la participación de los seguidores con preguntas sobre el diseño.
+
+*X:*
+1.	Tuitear las imágenes de los escenarios del juego con una pregunta para fomentar la participación.
+2.	Responder a los comentarios y retuitear menciones positivas.
+   
+**Día 3: Introducción al Pensamiento Computacional**
+
+*Instagram:*
+1.	Realizar una publicación explicando qué es el pensamiento computacional relacionándolo con Ace Voyage.
+2.	Compartir varios vídeos breves en las historias del proceso creativo y del desarrollo de los diferentes biomas del videojuego.
+
+*X:*
+1.	Compartir un tweet sobre el pensamiento computacional relacionándolo con Ace Voyage.
+2.	Utilizar el hashtag #PiensaConPatt para que la comunidad lo utilice.
+   
+**Día 4: Encuesta Modelos 3D de Enemigos**
+
+*Instagram:*
+1.	Mostrar concept arts de los enemigos del juego por historias.
+2.	Organizar una encuesta en las historias para que los seguidores elijan su enemigo favorito.
+3.	Publicar el resultado al final del día.
+
+*X:*
+1.	Tuitear imágenes de los concept arts de los enemigos.
+2.	Utilizar el hashtag #EnemigosDePatt para intentar que la comunidad lo emplee.
+
+**Día 5: Entrevista con el Equipo de Desarrollo**
+
+*Instagram:*
+1.	Realizar una serie de publicaciones en carrusel con entrevistas al equipo.
+2.	Destacar la pasión del equipo por el proyecto y sus roles.
+   
+*X:*
+1.	Compartir enlaces a las publicaciones de Instagram.
+2.	Incluir preguntas abiertas sobre el juego para que los seguidores participen.
+
+**Día 6: Demostración del Juego**
+
+*Instagram:*
+1.	Publicar un breve vídeo de gameplay o un gif del juego en acción.
+2.	Pedir a los seguidores que comenten lo que piensan.
+   
+*Twitter:*
+1.	Tuitear el video o gif, mencionando las características destacadas.
+2.	Responder a comentarios y retuitear menciones positivas.
+
+**Día 7: Agradecimiento por el apoyo**
+
+*Instagram:*
+1.	Compartir una imagen que refleje el éxito del lanzamiento y agradecer a la comunidad por su apoyo. Incluir capturas de pantalla de comentarios positivos y mencionar aspectos destacados del juego.
+2.	Publicar historias breves compartiendo mensajes de agradecimiento, capturas de pantalla de jugadores y de los comentarios más divertidos o emotivos.
+   
+*X:*
+1.	Publicar un tuit celebrando el lanzamiento exitoso de Ace Voyage. Compartir estadísticas positivas, logros o menciones notables que se hayan recibido.
+2.	Responder a comentarios en Twitter expresando gratitud y continuando las conversaciones con la comunidad.
