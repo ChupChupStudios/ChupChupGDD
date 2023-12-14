@@ -129,6 +129,9 @@
 ## 1.34 Versión 7.12
 - Corrección de errores menores.
 - Añadido el apartado "8.5. Análisis".
+## 1.35 Versión 7.13
+- Corrección imagen calendario semana apartado "8.4.3. Planificación semana del lanzamiento".
+- Correcciones menores en el mismo apartado.
   
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -887,7 +890,7 @@ Desde el décimo hasta el duodécimo mes.
 ### 8.4.3. Planificación semana del lanzamiento
 A continuación, se detalla la planificación de publicidad y marketing para la semana post-lanzamiento de Ace Voyage, detallando el plan de publicaciones en las redes sociales de Instagram y X del estudio.
 
-![Planificación semana (post)Lanzamiento](/images/semanaClave_marketing.png)
+![Planificación semana (post)Lanzamiento](/images/semana_marketing.png)
 
 > *Calendario planificación de marketing semana del 11 al 17*
 
@@ -922,7 +925,7 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 1.	Compartir un tweet sobre el pensamiento computacional relacionándolo con Ace Voyage.
 2.	Utilizar el hashtag #PiensaConPatt para que la comunidad lo utilice.
    
-**Día 4: Encuesta Modelos 3D de Enemigos**
+**Día 4: Encuesta Concept Arts de Enemigos**
 
 *Instagram:*
 1.	Mostrar concept arts de los enemigos del juego por historias.
