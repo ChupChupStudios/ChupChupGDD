@@ -123,6 +123,8 @@
 - Corrección de errores menores.
 ## 1.32 Versión 7.10
 - Ampliación del contenido del apartado "8.4. Plan".
+## 1.33 Versión 7.11
+- Corrección de errores menores.
   
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -890,7 +892,7 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 *Instagram:*
 1.	Publicar una imagen teaser del juego con el logo y el protagonista Patt.
 2.	Acompañar la imagen con una descripción intrigante sobre la historia y la mecánica del juego.
-3.	Utiliza hashtags populares relacionados con juegos, puzles y educación.
+3.	Utilizar hashtags populares relacionados con juegos, puzles y educación.
 
 *X:*
 1.	Twittear el mismo teaser con un breve texto descriptivo.
@@ -903,7 +905,7 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 2.	Animar a la participación de los seguidores con preguntas sobre el diseño.
 
 *X:*
-1.	Tuitear las imágenes de los escenarios del juego con una pregunta para fomentar la participación.
+1.	Twittear las imágenes de los escenarios del juego con una pregunta para fomentar la participación.
 2.	Responder a los comentarios y retuitear menciones positivas.
    
 **Día 3: Introducción al Pensamiento Computacional**
@@ -924,7 +926,7 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 3.	Publicar el resultado al final del día.
 
 *X:*
-1.	Tuitear imágenes de los concept arts de los enemigos.
+1.	Twittear imágenes de los concept arts de los enemigos.
 2.	Utilizar el hashtag #EnemigosDePatt para intentar que la comunidad lo emplee.
 
 **Día 5: Entrevista con el Equipo de Desarrollo**
@@ -944,7 +946,7 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 2.	Pedir a los seguidores que comenten lo que piensan.
    
 *Twitter:*
-1.	Tuitear el video o gif, mencionando las características destacadas.
+1.	Twittear el vídeo o gif, mencionando las características destacadas.
 2.	Responder a comentarios y retuitear menciones positivas.
 
 **Día 7: Agradecimiento por el apoyo**
