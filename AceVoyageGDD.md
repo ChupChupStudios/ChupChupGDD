@@ -36,6 +36,7 @@
     1. [Objetivos](#82-objetivos)
     1. [Estrategias y tácticas](#83-estrategias-y-tácticas)
     1. [Plan](#84-plan)
+    1. [Análisis](#85-análisis)
 ***
 ***
 # 1.	Historial de versiones
@@ -125,6 +126,9 @@
 - Ampliación del contenido del apartado "8.4. Plan".
 ## 1.33 Versión 7.11
 - Corrección de errores menores.
+## 1.34 Versión 7.12
+- Corrección de errores menores.
+- Añadido el apartado "8.5. Análisis".
   
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -945,7 +949,7 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 1.	Publicar un breve vídeo de gameplay o un gif del juego en acción.
 2.	Pedir a los seguidores que comenten lo que piensan.
    
-*Twitter:*
+*X:*
 1.	Twittear el vídeo o gif, mencionando las características destacadas.
 2.	Responder a comentarios y retuitear menciones positivas.
 
@@ -956,5 +960,22 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 2.	Publicar historias breves compartiendo mensajes de agradecimiento, capturas de pantalla de jugadores y de los comentarios más divertidos o emotivos.
    
 *X:*
-1.	Publicar un tuit celebrando el lanzamiento exitoso de Ace Voyage. Compartir estadísticas positivas, logros o menciones notables que se hayan recibido.
+1.	Publicar un tweet celebrando el lanzamiento exitoso de Ace Voyage. Compartir estadísticas positivas, logros o menciones notables que se hayan recibido.
 2.	Responder a comentarios en Twitter expresando gratitud y continuando las conversaciones con la comunidad.
+
+## 8.5. Análisis
+El plan de marketing de Ace Voyage presenta diversas fortalezas que respaldan su enfoque integral. La diversificación de canales, que incluye distintas redes sociales y campañas pagadas en un futuro, revela una comprensión profunda del marketing digital. Además, la creación y distribución de contenido relevante en las redes sociales demuestra una alineación con las tendencias actuales, promoviendo la participación de la audiencia.
+
+No obstante, existen oportunidades para mejorar. Explorar colaboraciones estratégicas con estudios de juegos podría ampliar la visibilidad y llegar a audiencias más amplias. Así mismo, establecer una programación de contenido más estructurada en redes sociales podría aumentar la anticipación y participación de la audiencia.
+
+El análisis identifica desafíos, como la medición precisa de resultados en campañas pagadas, debiéndose incorporar enfoques de análisis más detallados y herramientas específicas para abordar esta limitación. Además, la sostenibilidad a largo plazo es esencial, por lo que se debe evaluar constantemente la efectividad de las estrategias.
+
+Por otro lado, las amenazas consideradas incluyen posibles cambios en los algoritmos de redes sociales y la competencia creciente en publicidad pagada. Diversificar las estrategias más allá de las redes sociales y optimizar constantemente las campañas son medidas clave para mitigar estos riesgos.
+
+Es importante, para evaluar la efectividad de cada canal y ajustar estrategias según los resultados, implementar un análisis continuo de los resultados.
+
+Además, fomentar la interactividad en redes sociales mediante encuestas, preguntas y desafíos puede aumentar la participación de la audiencia, monitoreando constantemente las tendencias de la industria para adaptar las estrategias y mantener la relevancia.
+
+Para la planificación futura, se pueden explorar nuevas formas de contenido, como transmisiones en vivo y eventos en línea, para mantener el interés de la audiencia. Considerar la expansión a nuevos mercados mediante campañas específicas y localización del contenido también podría ser beneficioso.
+
+La adaptabilidad y la respuesta ágil a los cambios del mercado serán esenciales para el éxito continuo del plan.
