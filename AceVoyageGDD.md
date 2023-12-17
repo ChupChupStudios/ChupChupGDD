@@ -137,6 +137,8 @@
 - Correcciones menores en el mismo apartado.
 ## 1.37 Versión 7.15
 - Corrección de errores menores.
+## 1.38 Versión 7.16
+- Corrección de errores menores.
   
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -893,7 +895,7 @@ Desde el décimo hasta el duodécimo mes.
 - KPIs: Plan estratégico para el tercer año establecido.
 
 ### 8.4.3. Planificación semana del lanzamiento
-A continuación, se detalla la planificación de publicidad y marketing para las semana post-lanzamiento de Ace Voyage, detallando el plan de publicaciones en las redes sociales de Instagram y X del estudio.
+A continuación, se detalla la planificación de publicidad y marketing para las semanas post-lanzamiento de Ace Voyage, detallando el plan de publicaciones en las redes sociales de Instagram y X.
 
 ![Planificación semana (post)Lanzamiento](/images/semanaClave_marketing.png)
 
