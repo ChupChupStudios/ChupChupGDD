@@ -132,6 +132,9 @@
 ## 1.35 Versión 7.13
 - Corrección imagen calendario semana apartado "8.4.3. Planificación semana del lanzamiento".
 - Correcciones menores en el mismo apartado.
+## 1.36 Versión 7.14
+- Corrección imagen calendario semana apartado "8.4.3. Planificación semana del lanzamiento".
+- Correcciones menores en el mismo apartado.
   
 # 2.	Introducción
 ## 2.1. Concepto del juego
@@ -890,7 +893,7 @@ Desde el décimo hasta el duodécimo mes.
 ### 8.4.3. Planificación semana del lanzamiento
 A continuación, se detalla la planificación de publicidad y marketing para la semana post-lanzamiento de Ace Voyage, detallando el plan de publicaciones en las redes sociales de Instagram y X del estudio.
 
-![Planificación semana (post)Lanzamiento](/images/semana_marketing.png)
+![Planificación semana (post)Lanzamiento](/images/semanaClave_marketing.png)
 
 > *Calendario planificación de marketing semana del 11 al 17*
 
@@ -936,17 +939,7 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 1.	Twittear imágenes de los concept arts de los enemigos.
 2.	Utilizar el hashtag #EnemigosDePatt para intentar que la comunidad lo emplee.
 
-**Día 5: Entrevista con el Equipo de Desarrollo**
-
-*Instagram:*
-1.	Realizar una serie de publicaciones en carrusel con entrevistas al equipo.
-2.	Destacar la pasión del equipo por el proyecto y sus roles.
-   
-*X:*
-1.	Compartir enlaces a las publicaciones de Instagram.
-2.	Incluir preguntas abiertas sobre el juego para que los seguidores participen.
-
-**Día 6: Demostración del Juego**
+**Día 5: Demostración del Juego**
 
 *Instagram:*
 1.	Publicar un breve vídeo de gameplay o un gif del juego en acción.
@@ -955,6 +948,16 @@ A continuación, se detalla la planificación de publicidad y marketing para la 
 *X:*
 1.	Twittear el vídeo o gif, mencionando las características destacadas.
 2.	Responder a comentarios y retuitear menciones positivas.
+
+**Día 6: Entrevista con el Equipo de Desarrollo**
+
+*Instagram:*
+1.	Realizar una serie de publicaciones con entrevistas al equipo, ya sean escritas o grabadas. También se puede invitar a los seguidores a que hagan preguntas por stories para que los desarrolladores las contesten, y así conectar con el público.
+2.	Destacar la pasión del equipo por el proyecto y sus roles.
+   
+*X:*
+1.	Compartir enlaces a las publicaciones de Instagram.
+2.	Incluir preguntas abiertas sobre el juego para que los seguidores participen.
 
 **Día 7: Agradecimiento por el apoyo**
 
